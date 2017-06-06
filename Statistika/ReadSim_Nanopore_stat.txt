@@ -1,0 +1,728 @@
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Parasuis/KL0318/x20/10k
+  4544 sequences classified (99.61%)
+  18 sequences unclassified (0.39%)
+Broj pogodjenih do vrste: 4379
+Broj ukupno pogodjenih: 4544
+Time of execution: .23900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Parasuis/KL0318/x20/5k
+  9060 sequences classified (99.30%)
+  64 sequences unclassified (0.70%)
+Broj pogodjenih do vrste: 8726
+Broj ukupno pogodjenih: 9060
+Time of execution: 9.43500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Parasuis/KL0318/x30/10k
+  6817 sequences classified (99.62%)
+  26 sequences unclassified (0.38%)
+Broj pogodjenih do vrste: 6568
+Broj ukupno pogodjenih: 6817
+Time of execution: 7.03900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Parasuis/KL0318/x30/5k
+  13590 sequences classified (99.30%)
+  96 sequences unclassified (0.70%)
+Broj pogodjenih do vrste: 13093
+Broj ukupno pogodjenih: 13590
+Time of execution: 7.42200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Parasuis/SH03/x20/10k
+  4526 sequences classified (99.87%)
+  6 sequences unclassified (0.13%)
+Broj pogodjenih do vrste: 4329
+Broj ukupno pogodjenih: 4526
+Time of execution: 2.97000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Parasuis/SH03/x20/5k
+  9016 sequences classified (99.47%)
+  48 sequences unclassified (0.53%)
+Broj pogodjenih do vrste: 8667
+Broj ukupno pogodjenih: 9016
+Time of execution: 3.53300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Parasuis/SH03/x30/10k
+  6780 sequences classified (99.74%)
+  18 sequences unclassified (0.26%)
+Broj pogodjenih do vrste: 6516
+Broj ukupno pogodjenih: 6780
+Time of execution: 3.24700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Parasuis/SH03/x30/5k
+  13526 sequences classified (99.49%)
+  70 sequences unclassified (0.51%)
+Broj pogodjenih do vrste: 13031
+Broj ukupno pogodjenih: 13526
+Time of execution: 4.12800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Parasuis/SC1401/x20/10k
+  4510 sequences classified (98.99%)
+  46 sequences unclassified (1.01%)
+Broj pogodjenih do vrste: 4292
+Broj ukupno pogodjenih: 4510
+Time of execution: 2.77800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Parasuis/SC1401/x20/5k
+  8804 sequences classified (96.63%)
+  307 sequences unclassified (3.37%)
+Broj pogodjenih do vrste: 8368
+Broj ukupno pogodjenih: 8804
+Time of execution: 3.55200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Parasuis/SC1401/x30/10k
+  6763 sequences classified (98.98%)
+  70 sequences unclassified (1.02%)
+Broj pogodjenih do vrste: 6433
+Broj ukupno pogodjenih: 6763
+Time of execution: 3.00600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Parasuis/SC1401/x30/5k
+  13160 sequences classified (96.30%)
+  506 sequences unclassified (3.70%)
+Broj pogodjenih do vrste: 12523
+Broj ukupno pogodjenih: 13160
+Time of execution: 3.69500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Influenzae/Hi375/x20/10k
+  3701 sequences classified (99.97%)
+  1 sequences unclassified (0.03%)
+Broj pogodjenih do vrste: 3528
+Broj ukupno pogodjenih: 3701
+Time of execution: 1.24800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Influenzae/Hi375/x20/5k
+  7381 sequences classified (99.69%)
+  23 sequences unclassified (0.31%)
+Broj pogodjenih do vrste: 7061
+Broj ukupno pogodjenih: 7381
+Time of execution: 1.35200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Influenzae/Hi375/x30/10k
+  5551 sequences classified (99.96%)
+  2 sequences unclassified (0.04%)
+Broj pogodjenih do vrste: 5326
+Broj ukupno pogodjenih: 5551
+Time of execution: 1.37700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Influenzae/Hi375/x30/5k
+  11083 sequences classified (99.79%)
+  23 sequences unclassified (0.21%)
+Broj pogodjenih do vrste: 10598
+Broj ukupno pogodjenih: 11083
+Time of execution: 1.97600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Influenzae/723/x20/10k
+  3773 sequences classified (99.92%)
+  3 sequences unclassified (0.08%)
+Broj pogodjenih do vrste: 3625
+Broj ukupno pogodjenih: 3773
+Time of execution: 1.11700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Influenzae/723/x20/5k
+  7513 sequences classified (99.50%)
+  38 sequences unclassified (0.50%)
+Broj pogodjenih do vrste: 7214
+Broj ukupno pogodjenih: 7513
+Time of execution: 1.23600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Influenzae/723/x30/10k
+  5653 sequences classified (99.82%)
+  10 sequences unclassified (0.18%)
+Broj pogodjenih do vrste: 5425
+Broj ukupno pogodjenih: 5653
+Time of execution: 1.14200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Influenzae/723/x30/5k
+  11283 sequences classified (99.62%)
+  43 sequences unclassified (0.38%)
+Broj pogodjenih do vrste: 10829
+Broj ukupno pogodjenih: 11283
+Time of execution: 1.69300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Influenzae/477/x20/10k
+  3693 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 3536
+Broj ukupno pogodjenih: 3693
+Time of execution: .80500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Influenzae/477/x20/5k
+  7379 sequences classified (99.91%)
+  7 sequences unclassified (0.09%)
+Broj pogodjenih do vrste: 7064
+Broj ukupno pogodjenih: 7379
+Time of execution: 1.02800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Influenzae/477/x30/10k
+  5539 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 5302
+Broj ukupno pogodjenih: 5539
+Time of execution: 1.27300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Influenzae/477/x30/5k
+  11064 sequences classified (99.87%)
+  14 sequences unclassified (0.13%)
+Broj pogodjenih do vrste: 10602
+Broj ukupno pogodjenih: 11064
+Time of execution: 1.74900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Ducreyi/GHA9/x20/10k
+  3552 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 3339
+Broj ukupno pogodjenih: 3552
+Time of execution: .93000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Ducreyi/GHA9/x20/5k
+  7103 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 6637
+Broj ukupno pogodjenih: 7103
+Time of execution: 1.00400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Ducreyi/GHA9/x30/10k
+  5327 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 5002
+Broj ukupno pogodjenih: 5327
+Time of execution: 1.17000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Ducreyi/GHA9/x30/5k
+  10654 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 9998
+Broj ukupno pogodjenih: 10654
+Time of execution: 1.41400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Ducreyi/VAN5/x20/10k
+  3335 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 3255
+Broj ukupno pogodjenih: 3335
+Time of execution: .70200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Ducreyi/VAN5/x20/5k
+  6670 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 6507
+Broj ukupno pogodjenih: 6670
+Time of execution: .90700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Ducreyi/VAN5/x30/10k
+  5003 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 4861
+Broj ukupno pogodjenih: 5003
+Time of execution: .86900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Ducreyi/VAN5/x30/5k
+  10005 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 9730
+Broj ukupno pogodjenih: 10005
+Time of execution: 1.18400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Ducreyi/VAN4/x20/10k
+  3347 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 3260
+Broj ukupno pogodjenih: 3347
+Time of execution: .62500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Ducreyi/VAN4/x20/5k
+  6693 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 6528
+Broj ukupno pogodjenih: 6693
+Time of execution: .89500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Ducreyi/VAN4/x30/10k
+  5020 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 4880
+Broj ukupno pogodjenih: 5020
+Time of execution: .91300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Ducreyi/VAN4/x30/5k
+  10039 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 9801
+Broj ukupno pogodjenih: 10039
+Time of execution: 1.22000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Ducreyi/GHA8/x20/10k
+  3540 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 3317
+Broj ukupno pogodjenih: 3540
+Time of execution: .61900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Ducreyi/GHA8/x20/5k
+  7080 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 6639
+Broj ukupno pogodjenih: 7080
+Time of execution: .81300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Ducreyi/GHA8/x30/10k
+  5310 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 4979
+Broj ukupno pogodjenih: 5310
+Time of execution: 1.00500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Haemophilus/Ducreyi/GHA8/x30/5k
+  10620 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 10036
+Broj ukupno pogodjenih: 10620
+Time of execution: 1.14100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Enterica/62/x20/10k
+  9202 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 7985
+Broj ukupno pogodjenih: 9202
+Time of execution: 3.22100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Enterica/62/x20/5k
+  18403 sequences classified (99.99%)
+  1 sequences unclassified (0.01%)
+Broj pogodjenih do vrste: 15965
+Broj ukupno pogodjenih: 18403
+Time of execution: 3.33200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Enterica/62/x30/10k
+  13803 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 12042
+Broj ukupno pogodjenih: 13803
+Time of execution: 2.65300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Enterica/62/x30/5k
+  27604 sequences classified (100.00%)
+  1 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 24049
+Broj ukupno pogodjenih: 27604
+Time of execution: 3.01700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Enterica/LT2/x20/10k
+  9903 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 8106
+Broj ukupno pogodjenih: 9903
+Time of execution: 1.62400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Enterica/LT2/x20/5k
+  19806 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 16221
+Broj ukupno pogodjenih: 19806
+Time of execution: 1.82000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Enterica/LT2/x30/10k
+  14855 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 12195
+Broj ukupno pogodjenih: 14855
+Time of execution: 2.06900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Enterica/LT2/x30/5k
+  29709 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 24222
+Broj ukupno pogodjenih: 29709
+Time of execution: 2.15400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Enterica/RKS4594/x20/10k
+  9778 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 8108
+Broj ukupno pogodjenih: 9778
+Time of execution: 1.62600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Enterica/RKS4594/x20/5k
+  19555 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 16365
+Broj ukupno pogodjenih: 19555
+Time of execution: 1.57100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Enterica/RKS4594/x30/10k
+  14666 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 12244
+Broj ukupno pogodjenih: 14666
+Time of execution: 1.93500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Enterica/RKS4594/x30/5k
+  29332 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 24424
+Broj ukupno pogodjenih: 29332
+Time of execution: 2.10200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Enterica/CT18/x20/10k
+  10268 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 8167
+Broj ukupno pogodjenih: 10268
+Time of execution: 1.44500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Enterica/CT18/x20/5k
+  20536 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 16228
+Broj ukupno pogodjenih: 20536
+Time of execution: 1.52000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Enterica/CT18/x30/10k
+  15402 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 12251
+Broj ukupno pogodjenih: 15402
+Time of execution: 2.05400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Enterica/CT18/x30/5k
+  30804 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 24462
+Broj ukupno pogodjenih: 30804
+Time of execution: 2.09800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Bongori/RKS3044/x20/10k
+  8722 sequences classified (99.23%)
+  68 sequences unclassified (0.77%)
+Broj pogodjenih do vrste: 6789
+Broj ukupno pogodjenih: 8722
+Time of execution: 1.22500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Bongori/RKS3044/x20/5k
+  17345 sequences classified (98.67%)
+  234 sequences unclassified (1.33%)
+Broj pogodjenih do vrste: 13443
+Broj ukupno pogodjenih: 17345
+Time of execution: 1.51100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Bongori/RKS3044/x30/10k
+  13100 sequences classified (99.36%)
+  84 sequences unclassified (0.64%)
+Broj pogodjenih do vrste: 10135
+Broj ukupno pogodjenih: 13100
+Time of execution: 1.77400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Bongori/RKS3044/x30/5k
+  26058 sequences classified (98.83%)
+  309 sequences unclassified (1.17%)
+Broj pogodjenih do vrste: 20185
+Broj ukupno pogodjenih: 26058
+Time of execution: 1.93300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Bongori/N268-08/x20/10k
+  9548 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 7736
+Broj ukupno pogodjenih: 9548
+Time of execution: 1.36000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Bongori/N268-08/x20/5k
+  19095 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 15448
+Broj ukupno pogodjenih: 19095
+Time of execution: 1.25200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Bongori/N268-08/x30/10k
+  14321 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 11582
+Broj ukupno pogodjenih: 14321
+Time of execution: 1.89400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Bongori/N268-08/x30/5k
+  28642 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 23142
+Broj ukupno pogodjenih: 28642
+Time of execution: 2.00000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Bongori/NCTC_1249/x20/10k
+  8921 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 7231
+Broj ukupno pogodjenih: 8921
+Time of execution: 1.11900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Bongori/NCTC_1249/x20/5k
+  17840 sequences classified (99.99%)
+  1 sequences unclassified (0.01%)
+Broj pogodjenih do vrste: 14615
+Broj ukupno pogodjenih: 17840
+Time of execution: 1.16600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Bongori/NCTC_1249/x30/10k
+  13381 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 10824
+Broj ukupno pogodjenih: 13381
+Time of execution: 1.65400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Salmonella/Bongori/NCTC_1249/x30/5k
+  26761 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 21733
+Broj ukupno pogodjenih: 26761
+Time of execution: 1.91300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Mutans/UA159/x20/10k
+  4066 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 3921
+Broj ukupno pogodjenih: 4066
+Time of execution: .67300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Mutans/UA159/x20/5k
+  8132 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 7890
+Broj ukupno pogodjenih: 8132
+Time of execution: .76900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Mutans/UA159/x30/10k
+  6099 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 5912
+Broj ukupno pogodjenih: 6099
+Time of execution: .94600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Mutans/UA159/x30/5k
+  12198 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 11819
+Broj ukupno pogodjenih: 12198
+Time of execution: 1.19000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Mutans/NN2025DNA/x20/10k
+  4028 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 3916
+Broj ukupno pogodjenih: 4028
+Time of execution: .56200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Mutans/NN2025DNA/x20/5k
+  8055 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 7818
+Broj ukupno pogodjenih: 8055
+Time of execution: .72500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Mutans/NN2025DNA/x30/10k
+  6041 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 5857
+Broj ukupno pogodjenih: 6041
+Time of execution: .82000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Mutans/NN2025DNA/x30/5k
+  12082 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 11681
+Broj ukupno pogodjenih: 12082
+Time of execution: 1.30900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Agalacticae/SA20-06/x20/10k
+  3642 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 3642
+Time of execution: .63600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Agalacticae/SA20-06/x20/5k
+  7284 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 7284
+Time of execution: .73100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Agalacticae/SA20-06/x30/10k
+  5463 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 5463
+Time of execution: .70100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Agalacticae/SA20-06/x30/5k
+  10926 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 10926
+Time of execution: .92300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Agalacticae/NEM316/x20/10k
+  4423 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 4423
+Time of execution: .67000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Agalacticae/NEM316/x20/5k
+  8846 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 8846
+Time of execution: .90700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Agalacticae/NEM316/x30/10k
+  6635 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 6635
+Time of execution: 1.04600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Agalacticae/NEM316/x30/5k
+  13269 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 13269
+Time of execution: 1.14500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Agalacticae/GD201008-001/x20/10k
+  4127 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 4127
+Time of execution: .65900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Agalacticae/GD201008-001/x20/5k
+  8253 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 8253
+Time of execution: .59400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Agalacticae/GD201008-001/x30/10k
+  6190 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 6190
+Time of execution: .88800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Agalacticae/GD201008-001/x30/5k
+  12379 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 12379
+Time of execution: 1.12800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Pneumoniae/P1031/x20/10k
+  4224 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 2584
+Broj ukupno pogodjenih: 4224
+Time of execution: .65700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Pneumoniae/P1031/x20/5k
+  8448 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 5188
+Broj ukupno pogodjenih: 8448
+Time of execution: .69200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Pneumoniae/P1031/x30/10k
+  6336 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 3904
+Broj ukupno pogodjenih: 6336
+Time of execution: .97300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Pneumoniae/P1031/x30/5k
+  12672 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 7757
+Broj ukupno pogodjenih: 12672
+Time of execution: .86100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Pneumoniae/70585/x20/10k
+  4370 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 2721
+Broj ukupno pogodjenih: 4370
+Time of execution: .61000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Pneumoniae/70585/x20/5k
+  8738 sequences classified (99.99%)
+  1 sequences unclassified (0.01%)
+Broj pogodjenih do vrste: 5508
+Broj ukupno pogodjenih: 8738
+Time of execution: .68900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Pneumoniae/70585/x30/10k
+  6555 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 4179
+Broj ukupno pogodjenih: 6555
+Time of execution: .81100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Pneumoniae/70585/x30/5k
+  13109 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 8322
+Broj ukupno pogodjenih: 13109
+Time of execution: 1.10000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Pyogenes/MGAS5005/x20/10k
+  3678 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 2482
+Broj ukupno pogodjenih: 3678
+Time of execution: .61000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Pyogenes/MGAS5005/x20/5k
+  7355 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 5023
+Broj ukupno pogodjenih: 7355
+Time of execution: .63300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Pyogenes/MGAS5005/x30/10k
+  5516 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 3813
+Broj ukupno pogodjenih: 5516
+Time of execution: .81600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Pyogenes/MGAS5005/x30/5k
+  11032 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 7537
+Broj ukupno pogodjenih: 11032
+Time of execution: .87200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Pyogenes/M1GAS/x20/10k
+  3705 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 2525
+Broj ukupno pogodjenih: 3705
+Time of execution: .56900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Pyogenes/M1GAS/x20/5k
+  7410 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 5178
+Broj ukupno pogodjenih: 7410
+Time of execution: .56800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Pyogenes/M1GAS/x30/10k
+  5558 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 3863
+Broj ukupno pogodjenih: 5558
+Time of execution: .74000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/Nanopore/Streptococcus/Pyogenes/M1GAS/x30/5k
+  11115 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 7784
+Broj ukupno pogodjenih: 11115
+Time of execution: .91100000000000000000
+ 

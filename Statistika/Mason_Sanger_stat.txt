@@ -1,0 +1,266 @@
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Enterococcus/Faecium/150/E39
+  1952 sequences classified (97.60%)
+  48 sequences unclassified (2.40%)
+Broj pogodjenih do vrste: 1821
+Broj ukupno pogodjenih: 1952
+Time of execution: .11400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Enterococcus/Faecium/150/UW8175
+  1983 sequences classified (99.15%)
+  17 sequences unclassified (0.85%)
+Broj pogodjenih do vrste: 1891
+Broj ukupno pogodjenih: 1983
+Time of execution: .09400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Enterococcus/Faecium/150/E745
+  1931 sequences classified (96.55%)
+  69 sequences unclassified (3.45%)
+Broj pogodjenih do vrste: 1806
+Broj ukupno pogodjenih: 1931
+Time of execution: .08500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Enterococcus/Faecium/150/6E6
+  1976 sequences classified (98.80%)
+  24 sequences unclassified (1.20%)
+Broj pogodjenih do vrste: 1856
+Broj ukupno pogodjenih: 1976
+Time of execution: .09800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Enterococcus/Gallinarum/150/FDAARGOS_163
+  1292 sequences classified (64.60%)
+  708 sequences unclassified (35.40%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 1292
+Time of execution: .17500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Enterococcus/Gallinarum/150/CC88DRAFT
+  167 sequences classified (8.35%)
+  1833 sequences unclassified (91.65%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 167
+Time of execution: .20600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Enterococcus/Gallinarum/150/24841
+  189 sequences classified (9.45%)
+  1811 sequences unclassified (90.55%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 189
+Time of execution: .21300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Enterococcus/Gallinarum/150/A6981
+  253 sequences classified (12.65%)
+  1747 sequences unclassified (87.35%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 253
+Time of execution: .17800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Enterococcus/Hirae/150/19m
+  1714 sequences classified (85.70%)
+  286 sequences unclassified (14.30%)
+Broj pogodjenih do vrste: 1633
+Broj ukupno pogodjenih: 1714
+Time of execution: .11200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Enterococcus/Hirae/150/DSM_20160
+  2000 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 1965
+Broj ukupno pogodjenih: 2000
+Time of execution: .08900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Enterococcus/Hirae/150/ATCC_9790
+  2000 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 1933
+Broj ukupno pogodjenih: 2000
+Time of execution: .08600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Enterococcus/Hirae/150/R17
+  1818 sequences classified (90.90%)
+  182 sequences unclassified (9.10%)
+Broj pogodjenih do vrste: 1751
+Broj ukupno pogodjenih: 1818
+Time of execution: .10200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Haemophilus/Parasuis/150/KL0318
+  1928 sequences classified (96.40%)
+  72 sequences unclassified (3.60%)
+Broj pogodjenih do vrste: 1856
+Broj ukupno pogodjenih: 1928
+Time of execution: .09900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Haemophilus/Parasuis/150/SH03
+  1958 sequences classified (97.90%)
+  42 sequences unclassified (2.10%)
+Broj pogodjenih do vrste: 1892
+Broj ukupno pogodjenih: 1958
+Time of execution: .08000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Haemophilus/Parasuis/150/SC1401
+  1701 sequences classified (85.05%)
+  299 sequences unclassified (14.95%)
+Broj pogodjenih do vrste: 1610
+Broj ukupno pogodjenih: 1701
+Time of execution: .11300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Haemophilus/Influenzae/150/Hi375
+  1965 sequences classified (98.25%)
+  35 sequences unclassified (1.75%)
+Broj pogodjenih do vrste: 1883
+Broj ukupno pogodjenih: 1965
+Time of execution: .07600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Haemophilus/Influenzae/150/723
+  1953 sequences classified (97.65%)
+  47 sequences unclassified (2.35%)
+Broj pogodjenih do vrste: 1881
+Broj ukupno pogodjenih: 1953
+Time of execution: .10500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Haemophilus/Influenzae/150/477
+  1972 sequences classified (98.60%)
+  28 sequences unclassified (1.40%)
+Broj pogodjenih do vrste: 1907
+Broj ukupno pogodjenih: 1972
+Time of execution: .09000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Haemophilus/Ducreyi/150/GHA9
+  1999 sequences classified (99.95%)
+  1 sequences unclassified (0.05%)
+Broj pogodjenih do vrste: 1892
+Broj ukupno pogodjenih: 1999
+Time of execution: .09800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Haemophilus/Ducreyi/150/VAN5
+  1999 sequences classified (99.95%)
+  1 sequences unclassified (0.05%)
+Broj pogodjenih do vrste: 1959
+Broj ukupno pogodjenih: 1999
+Time of execution: .08400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Haemophilus/Ducreyi/150/VAN4
+  2000 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 1947
+Broj ukupno pogodjenih: 2000
+Time of execution: .08900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Haemophilus/Ducreyi/150/GHA8
+  1997 sequences classified (99.85%)
+  3 sequences unclassified (0.15%)
+Broj pogodjenih do vrste: 1885
+Broj ukupno pogodjenih: 1997
+Time of execution: .07600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Salmonella/Enterica/150/62z4
+  2000 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 1753
+Broj ukupno pogodjenih: 2000
+Time of execution: .08800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Salmonella/Enterica/150/LT2
+  2000 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 1613
+Broj ukupno pogodjenih: 2000
+Time of execution: .08700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Salmonella/Enterica/150/RKS4594
+  2000 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 1672
+Broj ukupno pogodjenih: 2000
+Time of execution: .08300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Salmonella/Enterica/150/CT18
+  2000 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 1649
+Broj ukupno pogodjenih: 2000
+Time of execution: .07600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Salmonella/Bongori/150/RKS3044
+  1954 sequences classified (97.70%)
+  46 sequences unclassified (2.30%)
+Broj pogodjenih do vrste: 1507
+Broj ukupno pogodjenih: 1954
+Time of execution: .09500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Salmonella/Bongori/150/NCTC_12419
+  2000 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 1620
+Broj ukupno pogodjenih: 2000
+Time of execution: .09000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Salmonella/Bongori/150/N268-08
+  2000 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 1602
+Broj ukupno pogodjenih: 2000
+Time of execution: .09100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Streptococcus/Mutans/150/UA159
+  1999 sequences classified (99.95%)
+  1 sequences unclassified (0.05%)
+Broj pogodjenih do vrste: 1942
+Broj ukupno pogodjenih: 1999
+Time of execution: .07600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Streptococcus/Mutans/150/NN2025
+  1999 sequences classified (99.95%)
+  1 sequences unclassified (0.05%)
+Broj pogodjenih do vrste: 1938
+Broj ukupno pogodjenih: 1999
+Time of execution: .10300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Streptococcus/Pneumoniae/150/P1031
+  2000 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 1196
+Broj ukupno pogodjenih: 2000
+Time of execution: .09600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Streptococcus/Pneumoniae/150/70585
+  1999 sequences classified (99.95%)
+  1 sequences unclassified (0.05%)
+Broj pogodjenih do vrste: 1274
+Broj ukupno pogodjenih: 1999
+Time of execution: .08800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Streptococcus/Pyogenes/150/MGAS5005
+  2000 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 1393
+Broj ukupno pogodjenih: 2000
+Time of execution: .08000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Streptococcus/Pyogenes/150/M1_GAS
+  2000 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 1377
+Broj ukupno pogodjenih: 2000
+Time of execution: .07100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Streptococcus/Agalactiae/150/SA20-06
+  2000 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Broj pogodjenih do vrste: 1915
+Broj ukupno pogodjenih: 2000
+Time of execution: .08500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Streptococcus/Agalactiae/150/NEM316
+  1999 sequences classified (99.95%)
+  1 sequences unclassified (0.05%)
+Broj pogodjenih do vrste: 1835
+Broj ukupno pogodjenih: 1999
+Time of execution: .07600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/Mason/Sanger/Streptococcus/Agalactiae/150/GD201008-001
+  1999 sequences classified (99.95%)
+  1 sequences unclassified (0.05%)
+Broj pogodjenih do vrste: 1876
+Broj ukupno pogodjenih: 1999
+Time of execution: .09000000000000000000
+ 

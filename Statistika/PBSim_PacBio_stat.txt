@@ -1,0 +1,1092 @@
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Faecium/Strain/E39/x20/10k
+  2491 sequences classified (44.63%)
+  3090 sequences unclassified (55.37%)
+Broj pogodjenih do vrste: 2276
+Broj ukupno pogodjenih: 2491
+Time of execution: 2.90600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Faecium/Strain/E39/x20/5k
+  2903 sequences classified (26.01%)
+  8258 sequences unclassified (73.99%)
+Broj pogodjenih do vrste: 2639
+Broj ukupno pogodjenih: 2903
+Time of execution: 3.06000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Faecium/Strain/E39/x30/10k
+  3735 sequences classified (44.62%)
+  4636 sequences unclassified (55.38%)
+Broj pogodjenih do vrste: 3450
+Broj ukupno pogodjenih: 3735
+Time of execution: 3.76800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Faecium/Strain/E39/x30/5k
+  4620 sequences classified (27.60%)
+  12121 sequences unclassified (72.40%)
+Broj pogodjenih do vrste: 4273
+Broj ukupno pogodjenih: 4620
+Time of execution: 3.96600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Faecium/Strain/UW8175/x20/10k
+  2362 sequences classified (45.44%)
+  2836 sequences unclassified (54.56%)
+Broj pogodjenih do vrste: 2218
+Broj ukupno pogodjenih: 2362
+Time of execution: 2.25700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Faecium/Strain/UW8175/x20/5k
+  2833 sequences classified (27.25%)
+  7563 sequences unclassified (72.75%)
+Broj pogodjenih do vrste: 2681
+Broj ukupno pogodjenih: 2833
+Time of execution: 2.58500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Faecium/Strain/UW8175/x30/10k
+  3579 sequences classified (45.90%)
+  4218 sequences unclassified (54.10%)
+Broj pogodjenih do vrste: 3412
+Broj ukupno pogodjenih: 3579
+Time of execution: 3.26800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Faecium/Strain/UW8175/x30/5k
+  4158 sequences classified (26.66%)
+  11436 sequences unclassified (73.34%)
+Broj pogodjenih do vrste: 3975
+Broj ukupno pogodjenih: 4158
+Time of execution: 3.70000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Faecium/Strain/E745/x20/10k
+  2543 sequences classified (45.98%)
+  2988 sequences unclassified (54.02%)
+Broj pogodjenih do vrste: 2374
+Broj ukupno pogodjenih: 2543
+Time of execution: 2.34500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Faecium/Strain/E745/x20/5k
+  2986 sequences classified (27.00%)
+  8075 sequences unclassified (73.00%)
+Broj pogodjenih do vrste: 2773
+Broj ukupno pogodjenih: 2986
+Time of execution: 2.64200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Faecium/Strain/E745/x30/10k
+  3740 sequences classified (45.08%)
+  4556 sequences unclassified (54.92%)
+Broj pogodjenih do vrste: 3505
+Broj ukupno pogodjenih: 3740
+Time of execution: 3.57700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Faecium/Strain/E745/x30/5k
+  4410 sequences classified (26.58%)
+  12181 sequences unclassified (73.42%)
+Broj pogodjenih do vrste: 4109
+Broj ukupno pogodjenih: 4410
+Time of execution: 3.95600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Faecium/Strain/6E6/x20/10k
+  2691 sequences classified (45.35%)
+  3243 sequences unclassified (54.65%)
+Broj pogodjenih do vrste: 2531
+Broj ukupno pogodjenih: 2691
+Time of execution: 2.50200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Faecium/Strain/6E6/x20/5k
+  3293 sequences classified (27.75%)
+  8575 sequences unclassified (72.25%)
+Broj pogodjenih do vrste: 3085
+Broj ukupno pogodjenih: 3293
+Time of execution: 2.77400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Faecium/Strain/6E6/x30/10k
+  4100 sequences classified (46.06%)
+  4801 sequences unclassified (53.94%)
+Broj pogodjenih do vrste: 3851
+Broj ukupno pogodjenih: 4100
+Time of execution: 3.98600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Faecium/Strain/6E6/x30/5k
+  4879 sequences classified (27.41%)
+  12923 sequences unclassified (72.59%)
+Broj pogodjenih do vrste: 4565
+Broj ukupno pogodjenih: 4879
+Time of execution: 4.16500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Gallinarum/Strain/FDAARGOS163/x20/10k
+  1253 sequences classified (16.78%)
+  6214 sequences unclassified (83.22%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 1253
+Time of execution: 3.64300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Gallinarum/Strain/FDAARGOS163/x20/5k
+  1384 sequences classified (9.27%)
+  13549 sequences unclassified (90.73%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 1384
+Time of execution: 3.82500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Gallinarum/Strain/FDAARGOS163/x30/10k
+  1914 sequences classified (17.09%)
+  9286 sequences unclassified (82.91%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 1914
+Time of execution: 5.47300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Gallinarum/Strain/FDAARGOS163/x30/5k
+  1960 sequences classified (8.75%)
+  20440 sequences unclassified (91.25%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 1960
+Time of execution: 5.73600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Gallinarum/Strain/SKF1/x20/10k
+  152 sequences classified (2.35%)
+  6314 sequences unclassified (97.65%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 152
+Time of execution: 3.49600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Gallinarum/Strain/SKF1/x20/5k
+  161 sequences classified (1.25%)
+  12770 sequences unclassified (98.75%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 161
+Time of execution: 3.51000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Gallinarum/Strain/SKF1/x30/10k
+  202 sequences classified (2.08%)
+  9496 sequences unclassified (97.92%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 202
+Time of execution: 5.14000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Gallinarum/Strain/SKF1/x30/5k
+  262 sequences classified (1.35%)
+  19134 sequences unclassified (98.65%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 262
+Time of execution: 5.22700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Hirae/Strain/9790/x20/10k
+  2703 sequences classified (47.79%)
+  2953 sequences unclassified (52.21%)
+Broj pogodjenih do vrste: 2606
+Broj ukupno pogodjenih: 2703
+Time of execution: 2.32300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Hirae/Strain/9790/x20/5k
+  3144 sequences classified (27.80%)
+  8167 sequences unclassified (72.20%)
+Broj pogodjenih do vrste: 3043
+Broj ukupno pogodjenih: 3144
+Time of execution: 2.65100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Hirae/Strain/9790/x30/10k
+  4121 sequences classified (48.57%)
+  4363 sequences unclassified (51.43%)
+Broj pogodjenih do vrste: 3981
+Broj ukupno pogodjenih: 4121
+Time of execution: 3.41200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Hirae/Strain/9790/x30/5k
+  4735 sequences classified (27.91%)
+  12232 sequences unclassified (72.09%)
+Broj pogodjenih do vrste: 4557
+Broj ukupno pogodjenih: 4735
+Time of execution: 3.95400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Hirae/Strain/R17/x20/10k
+  2105 sequences classified (36.46%)
+  3668 sequences unclassified (63.54%)
+Broj pogodjenih do vrste: 2033
+Broj ukupno pogodjenih: 2105
+Time of execution: 2.53800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Hirae/Strain/R17/x20/5k
+  2461 sequences classified (21.31%)
+  9085 sequences unclassified (78.69%)
+Broj pogodjenih do vrste: 2374
+Broj ukupno pogodjenih: 2461
+Time of execution: 2.88900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Hirae/Strain/R17/x30/10k
+  3103 sequences classified (35.83%)
+  5557 sequences unclassified (64.17%)
+Broj pogodjenih do vrste: 2971
+Broj ukupno pogodjenih: 3103
+Time of execution: 3.80500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Enterococcus/Hirae/Strain/R17/x30/5k
+  3600 sequences classified (20.79%)
+  13719 sequences unclassified (79.21%)
+Broj pogodjenih do vrste: 3444
+Broj ukupno pogodjenih: 3600
+Time of execution: 4.22700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Parasuis/Strain/KL0318/x20/10k
+  1833 sequences classified (40.18%)
+  2729 sequences unclassified (59.82%)
+Broj pogodjenih do vrste: 1758
+Broj ukupno pogodjenih: 1833
+Time of execution: 1.98400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Parasuis/Strain/KL0318/x20/5k
+  2152 sequences classified (23.59%)
+  6972 sequences unclassified (76.41%)
+Broj pogodjenih do vrste: 2052
+Broj ukupno pogodjenih: 2152
+Time of execution: 2.19300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Parasuis/Strain/KL0318/x30/10k
+  2799 sequences classified (40.90%)
+  4044 sequences unclassified (59.10%)
+Broj pogodjenih do vrste: 2665
+Broj ukupno pogodjenih: 2799
+Time of execution: 2.94300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Parasuis/Strain/KL0318/x30/5k
+  3203 sequences classified (23.40%)
+  10483 sequences unclassified (76.60%)
+Broj pogodjenih do vrste: 3073
+Broj ukupno pogodjenih: 3203
+Time of execution: 3.27200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Parasuis/Strain/SH03/x20/10k
+  1893 sequences classified (41.77%)
+  2639 sequences unclassified (58.23%)
+Broj pogodjenih do vrste: 1811
+Broj ukupno pogodjenih: 1893
+Time of execution: 1.93200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Parasuis/Strain/SH03/x20/5k
+  2206 sequences classified (24.34%)
+  6858 sequences unclassified (75.66%)
+Broj pogodjenih do vrste: 2109
+Broj ukupno pogodjenih: 2206
+Time of execution: 2.16700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Parasuis/Strain/SH03/x30/10k
+  2784 sequences classified (40.95%)
+  4014 sequences unclassified (59.05%)
+Broj pogodjenih do vrste: 2677
+Broj ukupno pogodjenih: 2784
+Time of execution: 2.84900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Parasuis/Strain/SH03/x30/5k
+  3279 sequences classified (24.12%)
+  10317 sequences unclassified (75.88%)
+Broj pogodjenih do vrste: 3145
+Broj ukupno pogodjenih: 3279
+Time of execution: 3.22300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Parasuis/Strain/SC1401/x20/10k
+  1426 sequences classified (31.30%)
+  3130 sequences unclassified (68.70%)
+Broj pogodjenih do vrste: 1339
+Broj ukupno pogodjenih: 1426
+Time of execution: 2.09300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Parasuis/Strain/SC1401/x20/5k
+  1702 sequences classified (18.68%)
+  7409 sequences unclassified (81.32%)
+Broj pogodjenih do vrste: 1610
+Broj ukupno pogodjenih: 1702
+Time of execution: 2.27900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Parasuis/Strain/SC1401/x30/10k
+  2199 sequences classified (32.18%)
+  4634 sequences unclassified (67.82%)
+Broj pogodjenih do vrste: 2097
+Broj ukupno pogodjenih: 2199
+Time of execution: 3.04300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Parasuis/Strain/SC1401/x30/5k
+  2467 sequences classified (18.05%)
+  11199 sequences unclassified (81.95%)
+Broj pogodjenih do vrste: 2339
+Broj ukupno pogodjenih: 2467
+Time of execution: 3.36600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Influenzae/Strain/Hi375/x20/10k
+  1746 sequences classified (47.16%)
+  1956 sequences unclassified (52.84%)
+Broj pogodjenih do vrste: 1671
+Broj ukupno pogodjenih: 1746
+Time of execution: 1.60700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Influenzae/Strain/Hi375/x20/5k
+  2038 sequences classified (27.53%)
+  5366 sequences unclassified (72.47%)
+Broj pogodjenih do vrste: 1945
+Broj ukupno pogodjenih: 2038
+Time of execution: 1.76600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Influenzae/Strain/Hi375/x30/10k
+  2529 sequences classified (45.54%)
+  3024 sequences unclassified (54.46%)
+Broj pogodjenih do vrste: 2411
+Broj ukupno pogodjenih: 2529
+Time of execution: 2.30600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Influenzae/Strain/Hi375/x30/5k
+  2877 sequences classified (25.90%)
+  8229 sequences unclassified (74.10%)
+Broj pogodjenih do vrste: 2759
+Broj ukupno pogodjenih: 2877
+Time of execution: 2.65100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Influenzae/Strain/723/x20/10k
+  1646 sequences classified (43.59%)
+  2130 sequences unclassified (56.41%)
+Broj pogodjenih do vrste: 1579
+Broj ukupno pogodjenih: 1646
+Time of execution: 1.64000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Influenzae/Strain/723/x20/5k
+  2059 sequences classified (27.27%)
+  5492 sequences unclassified (72.73%)
+Broj pogodjenih do vrste: 1969
+Broj ukupno pogodjenih: 2059
+Time of execution: 1.87100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Influenzae/Strain/723/x30/10k
+  2542 sequences classified (44.89%)
+  3121 sequences unclassified (55.11%)
+Broj pogodjenih do vrste: 2434
+Broj ukupno pogodjenih: 2542
+Time of execution: 2.34100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Influenzae/Strain/723/x30/5k
+  3023 sequences classified (26.69%)
+  8303 sequences unclassified (73.31%)
+Broj pogodjenih do vrste: 2883
+Broj ukupno pogodjenih: 3023
+Time of execution: 2.68700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Influenzae/Strain/477/x20/10k
+  1640 sequences classified (44.41%)
+  2053 sequences unclassified (55.59%)
+Broj pogodjenih do vrste: 1560
+Broj ukupno pogodjenih: 1640
+Time of execution: 1.56300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Influenzae/Strain/477/x20/5k
+  1941 sequences classified (26.28%)
+  5445 sequences unclassified (73.72%)
+Broj pogodjenih do vrste: 1862
+Broj ukupno pogodjenih: 1941
+Time of execution: 1.79100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Influenzae/Strain/477/x30/10k
+  2423 sequences classified (43.74%)
+  3116 sequences unclassified (56.26%)
+Broj pogodjenih do vrste: 2300
+Broj ukupno pogodjenih: 2423
+Time of execution: 2.29000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Influenzae/Strain/477/x30/5k
+  2961 sequences classified (26.73%)
+  8117 sequences unclassified (73.27%)
+Broj pogodjenih do vrste: 2812
+Broj ukupno pogodjenih: 2961
+Time of execution: 2.66100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Ducreyi/Strain/GHA9/x20/10k
+  1623 sequences classified (45.69%)
+  1929 sequences unclassified (54.31%)
+Broj pogodjenih do vrste: 1535
+Broj ukupno pogodjenih: 1623
+Time of execution: 1.48500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Ducreyi/Strain/GHA9/x20/5k
+  1980 sequences classified (27.88%)
+  5123 sequences unclassified (72.12%)
+Broj pogodjenih do vrste: 1841
+Broj ukupno pogodjenih: 1980
+Time of execution: 1.70500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Ducreyi/Strain/GHA9/x30/10k
+  2487 sequences classified (46.69%)
+  2840 sequences unclassified (53.31%)
+Broj pogodjenih do vrste: 2349
+Broj ukupno pogodjenih: 2487
+Time of execution: 2.20000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Ducreyi/Strain/GHA9/x30/5k
+  2847 sequences classified (26.72%)
+  7807 sequences unclassified (73.28%)
+Broj pogodjenih do vrste: 2660
+Broj ukupno pogodjenih: 2847
+Time of execution: 2.49600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Ducreyi/Strain/VAN5/x20/10k
+  1586 sequences classified (47.56%)
+  1749 sequences unclassified (52.44%)
+Broj pogodjenih do vrste: 1547
+Broj ukupno pogodjenih: 1586
+Time of execution: 1.39700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Ducreyi/Strain/VAN5/x20/5k
+  1813 sequences classified (27.18%)
+  4857 sequences unclassified (72.82%)
+Broj pogodjenih do vrste: 1753
+Broj ukupno pogodjenih: 1813
+Time of execution: 1.63000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Ducreyi/Strain/VAN5/x30/10k
+  2356 sequences classified (47.09%)
+  2647 sequences unclassified (52.91%)
+Broj pogodjenih do vrste: 2272
+Broj ukupno pogodjenih: 2356
+Time of execution: 2.04700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Ducreyi/Strain/VAN5/x30/5k
+  2795 sequences classified (27.94%)
+  7210 sequences unclassified (72.06%)
+Broj pogodjenih do vrste: 2700
+Broj ukupno pogodjenih: 2795
+Time of execution: 2.34500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Ducreyi/Strain/VAN4/x20/10k
+  1517 sequences classified (45.32%)
+  1830 sequences unclassified (54.68%)
+Broj pogodjenih do vrste: 1475
+Broj ukupno pogodjenih: 1517
+Time of execution: 1.40500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Ducreyi/Strain/VAN4/x20/5k
+  1840 sequences classified (27.49%)
+  4853 sequences unclassified (72.51%)
+Broj pogodjenih do vrste: 1782
+Broj ukupno pogodjenih: 1840
+Time of execution: 1.62900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Ducreyi/Strain/VAN4/x30/10k
+  2328 sequences classified (46.37%)
+  2692 sequences unclassified (53.63%)
+Broj pogodjenih do vrste: 2268
+Broj ukupno pogodjenih: 2328
+Time of execution: 2.10000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Ducreyi/Strain/VAN4/x30/5k
+  2746 sequences classified (27.35%)
+  7293 sequences unclassified (72.65%)
+Broj pogodjenih do vrste: 2672
+Broj ukupno pogodjenih: 2746
+Time of execution: 2.38000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Ducreyi/Strain/GHA8/x20/10k
+  1669 sequences classified (47.15%)
+  1871 sequences unclassified (52.85%)
+Broj pogodjenih do vrste: 1578
+Broj ukupno pogodjenih: 1669
+Time of execution: 1.46000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Ducreyi/Strain/GHA8/x20/5k
+  1881 sequences classified (26.57%)
+  5199 sequences unclassified (73.43%)
+Broj pogodjenih do vrste: 1762
+Broj ukupno pogodjenih: 1881
+Time of execution: 1.69400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Ducreyi/Strain/GHA8/x30/10k
+  2440 sequences classified (45.95%)
+  2870 sequences unclassified (54.05%)
+Broj pogodjenih do vrste: 2293
+Broj ukupno pogodjenih: 2440
+Time of execution: 2.18200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Haemophilus/Ducreyi/Strain/GHA8/x30/5k
+  2883 sequences classified (27.15%)
+  7737 sequences unclassified (72.85%)
+Broj pogodjenih do vrste: 2738
+Broj ukupno pogodjenih: 2883
+Time of execution: 2.48800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/62/x20/10k
+  4207 sequences classified (45.72%)
+  4995 sequences unclassified (54.28%)
+Broj pogodjenih do vrste: 3617
+Broj ukupno pogodjenih: 4207
+Time of execution: 3.67400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/62/x20/5k
+  4858 sequences classified (26.40%)
+  13546 sequences unclassified (73.60%)
+Broj pogodjenih do vrste: 4182
+Broj ukupno pogodjenih: 4858
+Time of execution: 4.23200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/62/x30/10k
+  6308 sequences classified (45.70%)
+  7495 sequences unclassified (54.30%)
+Broj pogodjenih do vrste: 5440
+Broj ukupno pogodjenih: 6308
+Time of execution: 5.43100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/62/x30/5k
+  7368 sequences classified (26.69%)
+  20237 sequences unclassified (73.31%)
+Broj pogodjenih do vrste: 6313
+Broj ukupno pogodjenih: 7368
+Time of execution: 6.30200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/LT2/x20/10k
+  4449 sequences classified (45.80%)
+  5266 sequences unclassified (54.20%)
+Broj pogodjenih do vrste: 3559
+Broj ukupno pogodjenih: 4449
+Time of execution: 3.87500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/LT2/x20/10k
+  95 sequences classified (50.53%)
+  93 sequences unclassified (49.47%)
+Broj pogodjenih do vrste: 87
+Broj ukupno pogodjenih: 95
+Time of execution: .23300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/LT2/x20/5k
+  5219 sequences classified (26.86%)
+  14211 sequences unclassified (73.14%)
+Broj pogodjenih do vrste: 4229
+Broj ukupno pogodjenih: 5219
+Time of execution: 4.39800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/LT2/x20/5k
+  98 sequences classified (26.06%)
+  278 sequences unclassified (73.94%)
+Broj pogodjenih do vrste: 96
+Broj ukupno pogodjenih: 98
+Time of execution: .25400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/LT2/x30/10k
+  6753 sequences classified (46.34%)
+  7820 sequences unclassified (53.66%)
+Broj pogodjenih do vrste: 5469
+Broj ukupno pogodjenih: 6753
+Time of execution: 5.80000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/LT2/x30/10k
+  142 sequences classified (50.35%)
+  140 sequences unclassified (49.65%)
+Broj pogodjenih do vrste: 129
+Broj ukupno pogodjenih: 142
+Time of execution: .24100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/LT2/x30/5k
+  7927 sequences classified (27.20%)
+  21218 sequences unclassified (72.80%)
+Broj pogodjenih do vrste: 6375
+Broj ukupno pogodjenih: 7927
+Time of execution: 6.62700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/LT2/x30/5k
+  142 sequences classified (25.18%)
+  422 sequences unclassified (74.82%)
+Broj pogodjenih do vrste: 130
+Broj ukupno pogodjenih: 142
+Time of execution: .33400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/RKS4594/x20/10k
+  4517 sequences classified (46.73%)
+  5150 sequences unclassified (53.27%)
+Broj pogodjenih do vrste: 3741
+Broj ukupno pogodjenih: 4517
+Time of execution: 3.78800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/RKS4594/x20/10k
+  54 sequences classified (48.65%)
+  57 sequences unclassified (51.35%)
+Broj pogodjenih do vrste: 48
+Broj ukupno pogodjenih: 54
+Time of execution: .28200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/RKS4594/x20/5k
+  5287 sequences classified (27.35%)
+  14046 sequences unclassified (72.65%)
+Broj pogodjenih do vrste: 4343
+Broj ukupno pogodjenih: 5287
+Time of execution: 4.47600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/RKS4594/x20/5k
+  58 sequences classified (26.13%)
+  164 sequences unclassified (73.87%)
+Broj pogodjenih do vrste: 54
+Broj ukupno pogodjenih: 58
+Time of execution: .25800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/RKS4594/x30/10k
+  6655 sequences classified (45.90%)
+  7845 sequences unclassified (54.10%)
+Broj pogodjenih do vrste: 5516
+Broj ukupno pogodjenih: 6655
+Time of execution: 5.73800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/RKS4594/x30/10k
+  77 sequences classified (46.11%)
+  90 sequences unclassified (53.89%)
+Broj pogodjenih do vrste: 60
+Broj ukupno pogodjenih: 77
+Time of execution: .20800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/RKS4594/x30/5k
+  7911 sequences classified (27.28%)
+  21088 sequences unclassified (72.72%)
+Broj pogodjenih do vrste: 6499
+Broj ukupno pogodjenih: 7911
+Time of execution: 6.63200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/RKS4594/x30/5k
+  82 sequences classified (24.62%)
+  251 sequences unclassified (75.38%)
+Broj pogodjenih do vrste: 75
+Broj ukupno pogodjenih: 82
+Time of execution: .24800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/CT18/x20/10k
+  4429 sequences classified (46.04%)
+  5190 sequences unclassified (53.96%)
+Broj pogodjenih do vrste: 3652
+Broj ukupno pogodjenih: 4429
+Time of execution: 3.83500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/CT18/x20/10k
+  98 sequences classified (45.79%)
+  116 sequences unclassified (54.21%)
+Broj pogodjenih do vrste: 57
+Broj ukupno pogodjenih: 98
+Time of execution: .21200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/CT18/x20/10k
+  223 sequences classified (51.03%)
+  214 sequences unclassified (48.97%)
+Broj pogodjenih do vrste: 7
+Broj ukupno pogodjenih: 223
+Time of execution: .30900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/CT18/x20/5k
+  5197 sequences classified (27.02%)
+  14040 sequences unclassified (72.98%)
+Broj pogodjenih do vrste: 4313
+Broj ukupno pogodjenih: 5197
+Time of execution: 4.40000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/CT18/x20/5k
+  107 sequences classified (25.06%)
+  320 sequences unclassified (74.94%)
+Broj pogodjenih do vrste: 64
+Broj ukupno pogodjenih: 107
+Time of execution: .26700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/CT18/x20/5k
+  226 sequences classified (25.89%)
+  647 sequences unclassified (74.11%)
+Broj pogodjenih do vrste: 13
+Broj ukupno pogodjenih: 226
+Time of execution: .36800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/CT18/x30/10k
+  6721 sequences classified (46.58%)
+  7707 sequences unclassified (53.42%)
+Broj pogodjenih do vrste: 5562
+Broj ukupno pogodjenih: 6721
+Time of execution: 5.69400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/CT18/x30/10k
+  158 sequences classified (49.38%)
+  162 sequences unclassified (50.62%)
+Broj pogodjenih do vrste: 92
+Broj ukupno pogodjenih: 158
+Time of execution: .26700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/CT18/x30/10k
+  294 sequences classified (44.89%)
+  361 sequences unclassified (55.11%)
+Broj pogodjenih do vrste: 10
+Broj ukupno pogodjenih: 294
+Time of execution: .37400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/CT18/x30/5k
+  7948 sequences classified (27.54%)
+  20907 sequences unclassified (72.46%)
+Broj pogodjenih do vrste: 6553
+Broj ukupno pogodjenih: 7948
+Time of execution: 6.53300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/CT18/x30/5k
+  166 sequences classified (25.94%)
+  474 sequences unclassified (74.06%)
+Broj pogodjenih do vrste: 94
+Broj ukupno pogodjenih: 166
+Time of execution: .33700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Enterica/Strain/CT18/x30/5k
+  347 sequences classified (26.51%)
+  962 sequences unclassified (73.49%)
+Broj pogodjenih do vrste: 16
+Broj ukupno pogodjenih: 347
+Time of execution: .39600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Bongori/Strain/RKS3044/x20/10k
+  3582 sequences classified (40.76%)
+  5207 sequences unclassified (59.24%)
+Broj pogodjenih do vrste: 2739
+Broj ukupno pogodjenih: 3582
+Time of execution: 3.62300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Bongori/Strain/RKS3044/x20/5k
+  4183 sequences classified (23.80%)
+  13395 sequences unclassified (76.20%)
+Broj pogodjenih do vrste: 3237
+Broj ukupno pogodjenih: 4183
+Time of execution: 4.16700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Bongori/Strain/RKS3044/x30/10k
+  5335 sequences classified (40.47%)
+  7849 sequences unclassified (59.53%)
+Broj pogodjenih do vrste: 4146
+Broj ukupno pogodjenih: 5335
+Time of execution: 5.45600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Bongori/Strain/RKS3044/x30/5k
+  6060 sequences classified (22.98%)
+  20307 sequences unclassified (77.02%)
+Broj pogodjenih do vrste: 4642
+Broj ukupno pogodjenih: 6060
+Time of execution: 6.18100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Bongori/Strain/N268-08/x20/10k
+  4226 sequences classified (45.11%)
+  5142 sequences unclassified (54.89%)
+Broj pogodjenih do vrste: 3384
+Broj ukupno pogodjenih: 4226
+Time of execution: 3.76700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Bongori/Strain/N268-08/x20/10k
+  81 sequences classified (45.00%)
+  99 sequences unclassified (55.00%)
+Broj pogodjenih do vrste: 59
+Broj ukupno pogodjenih: 81
+Time of execution: .23300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Bongori/Strain/N268-08/x20/5k
+  4962 sequences classified (26.49%)
+  13773 sequences unclassified (73.51%)
+Broj pogodjenih do vrste: 3959
+Broj ukupno pogodjenih: 4962
+Time of execution: 4.31600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Bongori/Strain/N268-08/x20/5k
+  85 sequences classified (23.61%)
+  275 sequences unclassified (76.39%)
+Broj pogodjenih do vrste: 69
+Broj ukupno pogodjenih: 85
+Time of execution: .24200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Bongori/Strain/N268-08/x30/10k
+  6355 sequences classified (45.23%)
+  7696 sequences unclassified (54.77%)
+Broj pogodjenih do vrste: 5143
+Broj ukupno pogodjenih: 6355
+Time of execution: 5.62300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Bongori/Strain/N268-08/x30/10k
+  131 sequences classified (48.52%)
+  139 sequences unclassified (51.48%)
+Broj pogodjenih do vrste: 108
+Broj ukupno pogodjenih: 131
+Time of execution: .26900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Bongori/Strain/N268-08/x30/5k
+  7541 sequences classified (26.83%)
+  20561 sequences unclassified (73.17%)
+Broj pogodjenih do vrste: 6081
+Broj ukupno pogodjenih: 7541
+Time of execution: 6.39300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Bongori/Strain/N268-08/x30/5k
+  151 sequences classified (27.96%)
+  389 sequences unclassified (72.04%)
+Broj pogodjenih do vrste: 120
+Broj ukupno pogodjenih: 151
+Time of execution: .25900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Bongori/Strain/NCTC_1249/x20/10k
+  4075 sequences classified (45.68%)
+  4846 sequences unclassified (54.32%)
+Broj pogodjenih do vrste: 3288
+Broj ukupno pogodjenih: 4075
+Time of execution: 3.57000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Bongori/Strain/NCTC_1249/x20/5k
+  4795 sequences classified (26.88%)
+  13046 sequences unclassified (73.12%)
+Broj pogodjenih do vrste: 3871
+Broj ukupno pogodjenih: 4795
+Time of execution: 4.10000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Bongori/Strain/NCTC_1249/x30/10k
+  6121 sequences classified (45.74%)
+  7260 sequences unclassified (54.26%)
+Broj pogodjenih do vrste: 4932
+Broj ukupno pogodjenih: 6121
+Time of execution: 5.43000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Salmonella/Bongori/Strain/NCTC_1249/x30/5k
+  7198 sequences classified (26.90%)
+  19563 sequences unclassified (73.10%)
+Broj pogodjenih do vrste: 5746
+Broj ukupno pogodjenih: 7198
+Time of execution: 6.13800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Mutans/Strain/UA159/x20/10k
+  1935 sequences classified (47.59%)
+  2131 sequences unclassified (52.41%)
+Broj pogodjenih do vrste: 1862
+Broj ukupno pogodjenih: 1935
+Time of execution: 1.73800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Mutans/Strain/UA159/x20/5k
+  2241 sequences classified (27.56%)
+  5891 sequences unclassified (72.44%)
+Broj pogodjenih do vrste: 2170
+Broj ukupno pogodjenih: 2241
+Time of execution: 1.99500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Mutans/Strain/UA159/x30/10k
+  2939 sequences classified (48.19%)
+  3160 sequences unclassified (51.81%)
+Broj pogodjenih do vrste: 2856
+Broj ukupno pogodjenih: 2939
+Time of execution: 2.50900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Mutans/Strain/UA159/x30/5k
+  3470 sequences classified (28.45%)
+  8728 sequences unclassified (71.55%)
+Broj pogodjenih do vrste: 3343
+Broj ukupno pogodjenih: 3470
+Time of execution: 2.88300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Mutans/Strain/NN2025/x20/10k
+  1937 sequences classified (48.09%)
+  2091 sequences unclassified (51.91%)
+Broj pogodjenih do vrste: 1872
+Broj ukupno pogodjenih: 1937
+Time of execution: 1.72200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Mutans/Strain/NN2025/x20/5k
+  2265 sequences classified (28.12%)
+  5790 sequences unclassified (71.88%)
+Broj pogodjenih do vrste: 2188
+Broj ukupno pogodjenih: 2265
+Time of execution: 1.96100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Mutans/Strain/NN2025/x30/10k
+  2908 sequences classified (48.14%)
+  3133 sequences unclassified (51.86%)
+Broj pogodjenih do vrste: 2805
+Broj ukupno pogodjenih: 2908
+Time of execution: 2.48500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Mutans/Strain/NN2025/x30/5k
+  3404 sequences classified (28.17%)
+  8678 sequences unclassified (71.83%)
+Broj pogodjenih do vrste: 3288
+Broj ukupno pogodjenih: 3404
+Time of execution: 2.87000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Pneumoniae/Strain/P1031/x20/10k
+  2020 sequences classified (47.82%)
+  2204 sequences unclassified (52.18%)
+Broj pogodjenih do vrste: 1217
+Broj ukupno pogodjenih: 2020
+Time of execution: 1.70800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Pneumoniae/Strain/P1031/x20/5k
+  2460 sequences classified (29.12%)
+  5988 sequences unclassified (70.88%)
+Broj pogodjenih do vrste: 1498
+Broj ukupno pogodjenih: 2460
+Time of execution: 1.99700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Pneumoniae/Strain/P1031/x30/10k
+  2973 sequences classified (46.92%)
+  3363 sequences unclassified (53.08%)
+Broj pogodjenih do vrste: 1846
+Broj ukupno pogodjenih: 2973
+Time of execution: 2.58400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Pneumoniae/Strain/P1031/x30/5k
+  3556 sequences classified (28.06%)
+  9116 sequences unclassified (71.94%)
+Broj pogodjenih do vrste: 2197
+Broj ukupno pogodjenih: 3556
+Time of execution: 2.98100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Pneumoniae/Strain/70585/x20/10k
+  2096 sequences classified (47.96%)
+  2274 sequences unclassified (52.04%)
+Broj pogodjenih do vrste: 1305
+Broj ukupno pogodjenih: 2096
+Time of execution: 1.79700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Pneumoniae/Strain/70585/x20/5k
+  2474 sequences classified (28.31%)
+  6265 sequences unclassified (71.69%)
+Broj pogodjenih do vrste: 1557
+Broj ukupno pogodjenih: 2474
+Time of execution: 2.15900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Pneumoniae/Strain/70585/x30/10k
+  3104 sequences classified (47.35%)
+  3451 sequences unclassified (52.65%)
+Broj pogodjenih do vrste: 1989
+Broj ukupno pogodjenih: 3104
+Time of execution: 2.63700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Pneumoniae/Strain/70585/x30/5k
+  3672 sequences classified (28.01%)
+  9437 sequences unclassified (71.99%)
+Broj pogodjenih do vrste: 2317
+Broj ukupno pogodjenih: 3672
+Time of execution: 3.02400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Pyogenes/Strain/MGAS5005/x20/10k
+  1740 sequences classified (47.31%)
+  1938 sequences unclassified (52.69%)
+Broj pogodjenih do vrste: 1166
+Broj ukupno pogodjenih: 1740
+Time of execution: 1.60500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Pyogenes/Strain/MGAS5005/x20/5k
+  2170 sequences classified (29.50%)
+  5185 sequences unclassified (70.50%)
+Broj pogodjenih do vrste: 1471
+Broj ukupno pogodjenih: 2170
+Time of execution: 1.74300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Pyogenes/Strain/MGAS5005/x30/10k
+  2635 sequences classified (47.77%)
+  2881 sequences unclassified (52.23%)
+Broj pogodjenih do vrste: 1807
+Broj ukupno pogodjenih: 2635
+Time of execution: 2.23500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Pyogenes/Strain/MGAS5005/x30/5k
+  3059 sequences classified (27.73%)
+  7973 sequences unclassified (72.27%)
+Broj pogodjenih do vrste: 2079
+Broj ukupno pogodjenih: 3059
+Time of execution: 2.58300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Pyogenes/Strain/M1_GAS/x20/10k
+  1750 sequences classified (47.23%)
+  1955 sequences unclassified (52.77%)
+Broj pogodjenih do vrste: 1229
+Broj ukupno pogodjenih: 1750
+Time of execution: 1.56700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Pyogenes/Strain/M1_GAS/x20/5k
+  2122 sequences classified (28.64%)
+  5288 sequences unclassified (71.36%)
+Broj pogodjenih do vrste: 1435
+Broj ukupno pogodjenih: 2122
+Time of execution: 1.94300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Pyogenes/Strain/M1_GAS/x30/10k
+  2689 sequences classified (48.38%)
+  2869 sequences unclassified (51.62%)
+Broj pogodjenih do vrste: 1887
+Broj ukupno pogodjenih: 2689
+Time of execution: 2.21800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Pyogenes/Strain/M1_GAS/x30/5k
+  3242 sequences classified (29.17%)
+  7873 sequences unclassified (70.83%)
+Broj pogodjenih do vrste: 2250
+Broj ukupno pogodjenih: 3242
+Time of execution: 2.62100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Agalactiae/Strain/SA20-06/x20/10k
+  1733 sequences classified (47.58%)
+  1909 sequences unclassified (52.42%)
+Broj pogodjenih do vrste: 1641
+Broj ukupno pogodjenih: 1733
+Time of execution: 1.51500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Agalactiae/Strain/SA20-06/x20/5k
+  2012 sequences classified (27.62%)
+  5272 sequences unclassified (72.38%)
+Broj pogodjenih do vrste: 1890
+Broj ukupno pogodjenih: 2012
+Time of execution: 1.77000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Agalactiae/Strain/SA20-06/x30/10k
+  2547 sequences classified (46.62%)
+  2916 sequences unclassified (53.38%)
+Broj pogodjenih do vrste: 2407
+Broj ukupno pogodjenih: 2547
+Time of execution: 2.25700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Agalactiae/Strain/SA20-06/x30/5k
+  3094 sequences classified (28.32%)
+  7832 sequences unclassified (71.68%)
+Broj pogodjenih do vrste: 2919
+Broj ukupno pogodjenih: 3094
+Time of execution: 2.60100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Agalactiae/Strain/NEM316/x20/10k
+  2101 sequences classified (47.50%)
+  2322 sequences unclassified (52.50%)
+Broj pogodjenih do vrste: 1922
+Broj ukupno pogodjenih: 2101
+Time of execution: 1.85000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Agalactiae/Strain/NEM316/x20/5k
+  2486 sequences classified (28.10%)
+  6360 sequences unclassified (71.90%)
+Broj pogodjenih do vrste: 2280
+Broj ukupno pogodjenih: 2486
+Time of execution: 2.09200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Agalactiae/Strain/NEM316/x30/10k
+  3152 sequences classified (47.51%)
+  3483 sequences unclassified (52.49%)
+Broj pogodjenih do vrste: 2925
+Broj ukupno pogodjenih: 3152
+Time of execution: 2.73800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Agalactiae/Strain/NEM316/x30/5k
+  3676 sequences classified (27.70%)
+  9593 sequences unclassified (72.30%)
+Broj pogodjenih do vrste: 3371
+Broj ukupno pogodjenih: 3676
+Time of execution: 3.12200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Agalactiae/Strain/GD201008-001/x20/10k
+  1988 sequences classified (48.17%)
+  2139 sequences unclassified (51.83%)
+Broj pogodjenih do vrste: 1864
+Broj ukupno pogodjenih: 1988
+Time of execution: 1.70300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Agalactiae/Strain/GD201008-001/x20/5k
+  2346 sequences classified (28.43%)
+  5907 sequences unclassified (71.57%)
+Broj pogodjenih do vrste: 2183
+Broj ukupno pogodjenih: 2346
+Time of execution: 1.95300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Agalactiae/Strain/GD201008-001/x30/10k
+  2952 sequences classified (47.69%)
+  3238 sequences unclassified (52.31%)
+Broj pogodjenih do vrste: 2758
+Broj ukupno pogodjenih: 2952
+Time of execution: 2.53000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/PBSim/Streptococcus/Agalactiae/Strain/GD201008-001/x30/5k
+  3420 sequences classified (27.63%)
+  8959 sequences unclassified (72.37%)
+Broj pogodjenih do vrste: 3200
+Broj ukupno pogodjenih: 3420
+Time of execution: 2.93100000000000000000
+ 

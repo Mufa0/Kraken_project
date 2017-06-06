@@ -1,0 +1,840 @@
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Enterococcus/Gallinarum/FDAARGOS163/x20/10k
+  3507 sequences classified (46.21%)
+  4082 sequences unclassified (53.79%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 3507
+Time of execution: 6.34200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Enterococcus/Gallinarum/FDAARGOS163/x20/5k
+  4659 sequences classified (30.72%)
+  10509 sequences unclassified (69.28%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 4659
+Time of execution: 3.53900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Enterococcus/Gallinarum/FDAARGOS163/x30/10k
+  5130 sequences classified (47.06%)
+  5770 sequences unclassified (52.94%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 5130
+Time of execution: 3.74000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Enterococcus/Gallinarum/FDAARGOS163/x30/5k
+  6917 sequences classified (30.64%)
+  15660 sequences unclassified (69.36%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 6917
+Time of execution: 4.77700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Enterococcus/Gallinarum/SKF1/x20/10k
+  516 sequences classified (8.04%)
+  5902 sequences unclassified (91.96%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 516
+Time of execution: 3.63300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Enterococcus/Gallinarum/SKF1/x20/5k
+  574 sequences classified (4.46%)
+  12294 sequences unclassified (95.54%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 574
+Time of execution: 3.83500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Enterococcus/Gallinarum/SKF1/x30/10k
+  841 sequences classified (8.86%)
+  8648 sequences unclassified (91.14%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 841
+Time of execution: 5.20800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Enterococcus/Gallinarum/SKF1/x30/5k
+  932 sequences classified (4.75%)
+  18697 sequences unclassified (95.25%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 932
+Time of execution: 5.41900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Enterococcus/Hirae/9790/x20/10k
+  4309 sequences classified (76.65%)
+  1313 sequences unclassified (23.35%)
+Broj pogodjenih do vrste: 4174
+Broj ukupno pogodjenih: 4309
+Time of execution: 1.77200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Enterococcus/Hirae/9790/x20/5k
+  7127 sequences classified (62.96%)
+  4193 sequences unclassified (37.04%)
+Broj pogodjenih do vrste: 6858
+Broj ukupno pogodjenih: 7127
+Time of execution: 1.38400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Enterococcus/Hirae/9790/x30/10k
+  6584 sequences classified (77.23%)
+  1941 sequences unclassified (22.77%)
+Broj pogodjenih do vrste: 6362
+Broj ukupno pogodjenih: 6584
+Time of execution: 1.60400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Enterococcus/Hirae/9790/x30/5k
+  10752 sequences classified (63.06%)
+  6298 sequences unclassified (36.94%)
+Broj pogodjenih do vrste: 10417
+Broj ukupno pogodjenih: 10752
+Time of execution: 2.03000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Enterococcus/Hirae/R17/x20/10k
+  3954 sequences classified (68.04%)
+  1857 sequences unclassified (31.96%)
+Broj pogodjenih do vrste: 3806
+Broj ukupno pogodjenih: 3954
+Time of execution: 1.23200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Enterococcus/Hirae/R17/x20/5k
+  6049 sequences classified (52.33%)
+  5511 sequences unclassified (47.67%)
+Broj pogodjenih do vrste: 5815
+Broj ukupno pogodjenih: 6049
+Time of execution: 1.81400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Enterococcus/Hirae/R17/x30/10k
+  5903 sequences classified (70.50%)
+  2470 sequences unclassified (29.50%)
+Broj pogodjenih do vrste: 5705
+Broj ukupno pogodjenih: 5903
+Time of execution: 1.63900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Enterococcus/Hirae/R17/x30/5k
+  9093 sequences classified (52.64%)
+  8181 sequences unclassified (47.36%)
+Broj pogodjenih do vrste: 8766
+Broj ukupno pogodjenih: 9093
+Time of execution: 2.45000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Parasuis/KL0318/x20/10k
+  3318 sequences classified (72.48%)
+  1260 sequences unclassified (27.52%)
+Broj pogodjenih do vrste: 3184
+Broj ukupno pogodjenih: 3318
+Time of execution: .78700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Parasuis/KL0318/x20/5k
+  5220 sequences classified (56.37%)
+  4041 sequences unclassified (43.63%)
+Broj pogodjenih do vrste: 5029
+Broj ukupno pogodjenih: 5220
+Time of execution: 1.17400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Parasuis/KL0318/x30/10k
+  4978 sequences classified (72.70%)
+  1869 sequences unclassified (27.30%)
+Broj pogodjenih do vrste: 4793
+Broj ukupno pogodjenih: 4978
+Time of execution: 1.14100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Parasuis/KL0318/x30/5k
+  7862 sequences classified (58.04%)
+  5684 sequences unclassified (41.96%)
+Broj pogodjenih do vrste: 7587
+Broj ukupno pogodjenih: 7862
+Time of execution: 1.73100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Parasuis/SH03/x20/10k
+  3339 sequences classified (74.78%)
+  1126 sequences unclassified (25.22%)
+Broj pogodjenih do vrste: 3216
+Broj ukupno pogodjenih: 3339
+Time of execution: .77100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Parasuis/SH03/x20/5k
+  5359 sequences classified (58.36%)
+  3823 sequences unclassified (41.64%)
+Broj pogodjenih do vrste: 5149
+Broj ukupno pogodjenih: 5359
+Time of execution: 1.13600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Parasuis/SH03/x30/10k
+  5049 sequences classified (74.25%)
+  1751 sequences unclassified (25.75%)
+Broj pogodjenih do vrste: 4860
+Broj ukupno pogodjenih: 5049
+Time of execution: 1.10600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Parasuis/SH03/x30/5k
+  7955 sequences classified (57.68%)
+  5836 sequences unclassified (42.32%)
+Broj pogodjenih do vrste: 7678
+Broj ukupno pogodjenih: 7955
+Time of execution: 1.69200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Parasuis/SC1401/x20/10k
+  2952 sequences classified (65.48%)
+  1556 sequences unclassified (34.52%)
+Broj pogodjenih do vrste: 2803
+Broj ukupno pogodjenih: 2952
+Time of execution: .98900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Parasuis/SC1401/x20/5k
+  4489 sequences classified (49.05%)
+  4663 sequences unclassified (50.95%)
+Broj pogodjenih do vrste: 4267
+Broj ukupno pogodjenih: 4489
+Time of execution: 1.40400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Parasuis/SC1401/x30/10k
+  4560 sequences classified (66.62%)
+  2285 sequences unclassified (33.38%)
+Broj pogodjenih do vrste: 4354
+Broj ukupno pogodjenih: 4560
+Time of execution: 1.42100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Parasuis/SC1401/x30/5k
+  6801 sequences classified (49.47%)
+  6947 sequences unclassified (50.53%)
+Broj pogodjenih do vrste: 6486
+Broj ukupno pogodjenih: 6801
+Time of execution: 2.07800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Influenzae/Hi375/x20/10k
+  2744 sequences classified (76.07%)
+  863 sequences unclassified (23.93%)
+Broj pogodjenih do vrste: 2610
+Broj ukupno pogodjenih: 2744
+Time of execution: .56800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Influenzae/Hi375/x20/5k
+  4530 sequences classified (62.17%)
+  2757 sequences unclassified (37.83%)
+Broj pogodjenih do vrste: 4325
+Broj ukupno pogodjenih: 4530
+Time of execution: .88100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Influenzae/Hi375/x30/10k
+  4144 sequences classified (75.77%)
+  1325 sequences unclassified (24.23%)
+Broj pogodjenih do vrste: 3970
+Broj ukupno pogodjenih: 4144
+Time of execution: .86300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Influenzae/Hi375/x30/5k
+  6823 sequences classified (61.23%)
+  4321 sequences unclassified (38.77%)
+Broj pogodjenih do vrste: 6548
+Broj ukupno pogodjenih: 6823
+Time of execution: 1.35400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Influenzae/723/x20/10k
+  2908 sequences classified (75.87%)
+  925 sequences unclassified (24.13%)
+Broj pogodjenih do vrste: 2779
+Broj ukupno pogodjenih: 2908
+Time of execution: .71700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Influenzae/723/x20/5k
+  4659 sequences classified (60.93%)
+  2988 sequences unclassified (39.07%)
+Broj pogodjenih do vrste: 4463
+Broj ukupno pogodjenih: 4659
+Time of execution: .94300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Influenzae/723/x30/10k
+  4261 sequences classified (76.75%)
+  1291 sequences unclassified (23.25%)
+Broj pogodjenih do vrste: 4059
+Broj ukupno pogodjenih: 4261
+Time of execution: .91300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Influenzae/723/x30/5k
+  6820 sequences classified (61.48%)
+  4273 sequences unclassified (38.52%)
+Broj pogodjenih do vrste: 6505
+Broj ukupno pogodjenih: 6820
+Time of execution: 1.34800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Influenzae/477/x20/10k
+  2771 sequences classified (75.50%)
+  899 sequences unclassified (24.50%)
+Broj pogodjenih do vrste: 2659
+Broj ukupno pogodjenih: 2771
+Time of execution: .63300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Influenzae/477/x20/5k
+  4409 sequences classified (61.51%)
+  2759 sequences unclassified (38.49%)
+Broj pogodjenih do vrste: 4233
+Broj ukupno pogodjenih: 4409
+Time of execution: .90300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Influenzae/477/x30/10k
+  4296 sequences classified (75.51%)
+  1393 sequences unclassified (24.49%)
+Broj pogodjenih do vrste: 4130
+Broj ukupno pogodjenih: 4296
+Time of execution: .91200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Influenzae/477/x30/5k
+  6596 sequences classified (61.53%)
+  4124 sequences unclassified (38.47%)
+Broj pogodjenih do vrste: 6293
+Broj ukupno pogodjenih: 6596
+Time of execution: 1.34700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Ducreyi/GHA9/x20/10k
+  2652 sequences classified (77.03%)
+  791 sequences unclassified (22.97%)
+Broj pogodjenih do vrste: 2492
+Broj ukupno pogodjenih: 2652
+Time of execution: .61300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Ducreyi/GHA9/x20/5k
+  4525 sequences classified (62.44%)
+  2722 sequences unclassified (37.56%)
+Broj pogodjenih do vrste: 4264
+Broj ukupno pogodjenih: 4525
+Time of execution: .85400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Ducreyi/GHA9/x30/10k
+  4168 sequences classified (76.60%)
+  1273 sequences unclassified (23.40%)
+Broj pogodjenih do vrste: 3929
+Broj ukupno pogodjenih: 4168
+Time of execution: .86700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Ducreyi/GHA9/x30/5k
+  6673 sequences classified (63.66%)
+  3809 sequences unclassified (36.34%)
+Broj pogodjenih do vrste: 6291
+Broj ukupno pogodjenih: 6673
+Time of execution: 1.26600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Ducreyi/VAN5/x20/10k
+  2599 sequences classified (77.01%)
+  776 sequences unclassified (22.99%)
+Broj pogodjenih do vrste: 2521
+Broj ukupno pogodjenih: 2599
+Time of execution: .68100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Ducreyi/VAN5/x20/5k
+  4217 sequences classified (62.80%)
+  2498 sequences unclassified (37.20%)
+Broj pogodjenih do vrste: 4100
+Broj ukupno pogodjenih: 4217
+Time of execution: .81300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Ducreyi/VAN5/x30/10k
+  3841 sequences classified (77.21%)
+  1134 sequences unclassified (22.79%)
+Broj pogodjenih do vrste: 3727
+Broj ukupno pogodjenih: 3841
+Time of execution: .78900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Ducreyi/VAN5/x30/5k
+  6326 sequences classified (62.53%)
+  3791 sequences unclassified (37.47%)
+Broj pogodjenih do vrste: 6166
+Broj ukupno pogodjenih: 6326
+Time of execution: 1.19100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Ducreyi/VAN4/x20/10k
+  2559 sequences classified (77.71%)
+  734 sequences unclassified (22.29%)
+Broj pogodjenih do vrste: 2494
+Broj ukupno pogodjenih: 2559
+Time of execution: .51700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Ducreyi/VAN4/x20/5k
+  4110 sequences classified (63.36%)
+  2377 sequences unclassified (36.64%)
+Broj pogodjenih do vrste: 3984
+Broj ukupno pogodjenih: 4110
+Time of execution: .81400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Ducreyi/VAN4/x30/10k
+  3908 sequences classified (77.39%)
+  1142 sequences unclassified (22.61%)
+Broj pogodjenih do vrste: 3805
+Broj ukupno pogodjenih: 3908
+Time of execution: .81900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Ducreyi/VAN4/x30/5k
+  6289 sequences classified (61.92%)
+  3867 sequences unclassified (38.08%)
+Broj pogodjenih do vrste: 6119
+Broj ukupno pogodjenih: 6289
+Time of execution: 1.21600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Ducreyi/GHA8/x20/10k
+  2736 sequences classified (77.20%)
+  808 sequences unclassified (22.80%)
+Broj pogodjenih do vrste: 2575
+Broj ukupno pogodjenih: 2736
+Time of execution: .59600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Ducreyi/GHA8/x20/5k
+  4430 sequences classified (63.01%)
+  2601 sequences unclassified (36.99%)
+Broj pogodjenih do vrste: 4182
+Broj ukupno pogodjenih: 4430
+Time of execution: .86100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Ducreyi/GHA8/x30/5
+  6644 sequences classified (62.51%)
+  3984 sequences unclassified (37.49%)
+Broj pogodjenih do vrste: 6256
+Broj ukupno pogodjenih: 6644
+Time of execution: 1.26100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Haemophilus/Ducreyi/GHA8/x30/10k
+  4008 sequences classified (77.02%)
+  1196 sequences unclassified (22.98%)
+Broj pogodjenih do vrste: 3764
+Broj ukupno pogodjenih: 4008
+Time of execution: .86800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Enterica/62/x20/10k
+  7201 sequences classified (77.55%)
+  2085 sequences unclassified (22.45%)
+Broj pogodjenih do vrste: 6255
+Broj ukupno pogodjenih: 7201
+Time of execution: 1.77200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Enterica/62/x20/5k
+  11549 sequences classified (62.98%)
+  6788 sequences unclassified (37.02%)
+Broj pogodjenih do vrste: 10066
+Broj ukupno pogodjenih: 11549
+Time of execution: 2.05800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Enterica/62/x30/10k
+  10763 sequences classified (77.52%)
+  3122 sequences unclassified (22.48%)
+Broj pogodjenih do vrste: 9417
+Broj ukupno pogodjenih: 10763
+Time of execution: 1.96200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Enterica/62/x30/5k
+  17515 sequences classified (62.63%)
+  10449 sequences unclassified (37.37%)
+Broj pogodjenih do vrste: 15280
+Broj ukupno pogodjenih: 17515
+Time of execution: 3.12800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Enterica/LT2/x20/10k
+  7706 sequences classified (77.44%)
+  2245 sequences unclassified (22.56%)
+Broj pogodjenih do vrste: 6263
+Broj ukupno pogodjenih: 7706
+Time of execution: 1.50000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Enterica/LT2/x20/5k
+  12529 sequences classified (62.61%)
+  7483 sequences unclassified (37.39%)
+Broj pogodjenih do vrste: 10174
+Broj ukupno pogodjenih: 12529
+Time of execution: 2.23200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Enterica/LT2/x30/10k
+  11503 sequences classified (77.67%)
+  3308 sequences unclassified (22.33%)
+Broj pogodjenih do vrste: 9331
+Broj ukupno pogodjenih: 11503
+Time of execution: 2.28300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Enterica/LT2/x30/5k
+  18589 sequences classified (64.80%)
+  10099 sequences unclassified (35.20%)
+Broj pogodjenih do vrste: 15151
+Broj ukupno pogodjenih: 18589
+Time of execution: 3.37400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Enterica/RKS4594/x20/10k
+  7026 sequences classified (79.33%)
+  1831 sequences unclassified (20.67%)
+Broj pogodjenih do vrste: 5853
+Broj ukupno pogodjenih: 7026
+Time of execution: 1.41800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Enterica/RKS4594/x20/5k
+  12323 sequences classified (62.60%)
+  7362 sequences unclassified (37.40%)
+Broj pogodjenih do vrste: 10289
+Broj ukupno pogodjenih: 12323
+Time of execution: 9.61800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Enterica/RKS4594/x30/10k
+  11447 sequences classified (76.62%)
+  3492 sequences unclassified (23.38%)
+Broj pogodjenih do vrste: 9514
+Broj ukupno pogodjenih: 11447
+Time of execution: 2.41100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Enterica/RKS4594/x30/5k
+  18584 sequences classified (62.78%)
+  11020 sequences unclassified (37.22%)
+Broj pogodjenih do vrste: 15414
+Broj ukupno pogodjenih: 18584
+Time of execution: 3.41200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Enterica/CT18/x20/10k
+  7993 sequences classified (77.52%)
+  2318 sequences unclassified (22.48%)
+Broj pogodjenih do vrste: 6393
+Broj ukupno pogodjenih: 7993
+Time of execution: 1.53900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Enterica/CT18/x20/5k
+  12967 sequences classified (62.02%)
+  7940 sequences unclassified (37.98%)
+Broj pogodjenih do vrste: 10290
+Broj ukupno pogodjenih: 12967
+Time of execution: 2.38500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Enterica/CT18/x30/10k
+  11797 sequences classified (77.77%)
+  3372 sequences unclassified (22.23%)
+Broj pogodjenih do vrste: 9380
+Broj ukupno pogodjenih: 11797
+Time of execution: 2.23000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Enterica/CT18/x30/5k
+  19491 sequences classified (63.54%)
+  11183 sequences unclassified (36.46%)
+Broj pogodjenih do vrste: 15467
+Broj ukupno pogodjenih: 19491
+Time of execution: 3.56100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Bongori/RKS3044/x20/10k
+  6418 sequences classified (73.12%)
+  2359 sequences unclassified (26.88%)
+Broj pogodjenih do vrste: 4962
+Broj ukupno pogodjenih: 6418
+Time of execution: 1.72400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Bongori/RKS3044/x20/5k
+  10437 sequences classified (57.62%)
+  7677 sequences unclassified (42.38%)
+Broj pogodjenih do vrste: 8031
+Broj ukupno pogodjenih: 10437
+Time of execution: 3.97600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Bongori/RKS3044/x30/10k
+  9669 sequences classified (73.40%)
+  3504 sequences unclassified (26.60%)
+Broj pogodjenih do vrste: 7468
+Broj ukupno pogodjenih: 9669
+Time of execution: 2.24200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Bongori/RKS3044/x30/5k
+  15400 sequences classified (58.63%)
+  10865 sequences unclassified (41.37%)
+Broj pogodjenih do vrste: 11941
+Broj ukupno pogodjenih: 15400
+Time of execution: 4.83700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Bongori/N268-08/x20/10k
+  7385 sequences classified (76.94%)
+  2214 sequences unclassified (23.06%)
+Broj pogodjenih do vrste: 5970
+Broj ukupno pogodjenih: 7385
+Time of execution: 1.41800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Bongori/N268-08/x20/5k
+  11942 sequences classified (62.03%)
+  7310 sequences unclassified (37.97%)
+Broj pogodjenih do vrste: 9549
+Broj ukupno pogodjenih: 11942
+Time of execution: 2.14400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Bongori/N268-08/x30/10k
+  10994 sequences classified (76.60%)
+  3359 sequences unclassified (23.40%)
+Broj pogodjenih do vrste: 8908
+Broj ukupno pogodjenih: 10994
+Time of execution: 2.07200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Bongori/N268-08/x30/5k
+  18379 sequences classified (60.78%)
+  11862 sequences unclassified (39.22%)
+Broj pogodjenih do vrste: 14883
+Broj ukupno pogodjenih: 18379
+Time of execution: 3.41900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Bongori/NCTC_1249/x20/10k
+  6788 sequences classified (77.62%)
+  1957 sequences unclassified (22.38%)
+Broj pogodjenih do vrste: 5518
+Broj ukupno pogodjenih: 6788
+Time of execution: 1.31900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Bongori/NCTC_1249/x20/5k
+  11309 sequences classified (62.56%)
+  6767 sequences unclassified (37.44%)
+Broj pogodjenih do vrste: 9156
+Broj ukupno pogodjenih: 11309
+Time of execution: 2.00300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Bongori/NCTC_1249/x30/10k
+  10279 sequences classified (76.62%)
+  3136 sequences unclassified (23.38%)
+Broj pogodjenih do vrste: 8341
+Broj ukupno pogodjenih: 10279
+Time of execution: 2.05600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Salmonella/Bongori/NCTC_1249/x30/5k
+  16497 sequences classified (62.51%)
+  9894 sequences unclassified (37.49%)
+Broj pogodjenih do vrste: 13400
+Broj ukupno pogodjenih: 16497
+Time of execution: 2.97500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Mutans/UA159/x20/10k
+  3063 sequences classified (77.90%)
+  869 sequences unclassified (22.10%)
+Broj pogodjenih do vrste: 2973
+Broj ukupno pogodjenih: 3063
+Time of execution: 1.13300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Mutans/UA159/x20/5k
+  5181 sequences classified (63.01%)
+  3041 sequences unclassified (36.99%)
+Broj pogodjenih do vrste: 5027
+Broj ukupno pogodjenih: 5181
+Time of execution: 1.24100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Mutans/UA159/x30/10k
+  4723 sequences classified (77.62%)
+  1362 sequences unclassified (22.38%)
+Broj pogodjenih do vrste: 4590
+Broj ukupno pogodjenih: 4723
+Time of execution: 1.25900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Mutans/UA159/x30/5k
+  7698 sequences classified (63.03%)
+  4516 sequences unclassified (36.97%)
+Broj pogodjenih do vrste: 7486
+Broj ukupno pogodjenih: 7698
+Time of execution: 1.57600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Mutans/NN2025DNA/x20/10k
+  3117 sequences classified (77.06%)
+  928 sequences unclassified (22.94%)
+Broj pogodjenih do vrste: 3011
+Broj ukupno pogodjenih: 3117
+Time of execution: .85700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Mutans/NN2025DNA/x20/5k
+  5019 sequences classified (63.10%)
+  2935 sequences unclassified (36.90%)
+Broj pogodjenih do vrste: 4840
+Broj ukupno pogodjenih: 5019
+Time of execution: 1.02100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Mutans/NN2025DNA/x30/10k
+  4633 sequences classified (76.96%)
+  1387 sequences unclassified (23.04%)
+Broj pogodjenih do vrste: 4517
+Broj ukupno pogodjenih: 4633
+Time of execution: 1.16000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Mutans/NN2025DNA/x30/5k
+  7731 sequences classified (62.46%)
+  4646 sequences unclassified (37.54%)
+Broj pogodjenih do vrste: 7481
+Broj ukupno pogodjenih: 7731
+Time of execution: 1.49300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Agalacticae/SA20-06/x20/10k
+  2754 sequences classified (76.56%)
+  843 sequences unclassified (23.44%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 2754
+Time of execution: .65600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Agalacticae/SA20-06/x20/5k
+  4446 sequences classified (62.19%)
+  2703 sequences unclassified (37.81%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 4446
+Time of execution: .92700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Agalacticae/SA20-06/x30/10k
+  4203 sequences classified (77.76%)
+  1202 sequences unclassified (22.24%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 4203
+Time of execution: .94300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Agalacticae/SA20-06/x30/5k
+  6864 sequences classified (63.07%)
+  4019 sequences unclassified (36.93%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 6864
+Time of execution: 1.28100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Agalacticae/NEM316/x20/10k
+  3516 sequences classified (77.82%)
+  1002 sequences unclassified (22.18%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 3516
+Time of execution: .84500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Agalacticae/NEM316/x20/5k
+  5576 sequences classified (63.62%)
+  3188 sequences unclassified (36.38%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 5576
+Time of execution: 1.09600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Agalacticae/NEM316/x30/10k
+  5169 sequences classified (77.83%)
+  1472 sequences unclassified (22.17%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 5169
+Time of execution: 1.06600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Agalacticae/NEM316/x30/5k
+  8330 sequences classified (62.43%)
+  5012 sequences unclassified (37.57%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 8330
+Time of execution: 1.60300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Agalacticae/GD201008-001/x20/10k
+  3271 sequences classified (77.90%)
+  928 sequences unclassified (22.10%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 3271
+Time of execution: .76400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Agalacticae/GD201008-001/x20/5k
+  144 sequences classified (60.76%)
+  93 sequences unclassified (39.24%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 144
+Time of execution: .17500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Agalacticae/GD201008-001/x30/10k
+  4764 sequences classified (77.25%)
+  1403 sequences unclassified (22.75%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 4764
+Time of execution: 1.08600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Agalacticae/GD201008-001/x30/5k
+  7870 sequences classified (63.64%)
+  4496 sequences unclassified (36.36%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 7870
+Time of execution: 1.43200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Pneumoniae/P1031/x20/10k
+  3214 sequences classified (76.74%)
+  974 sequences unclassified (23.26%)
+Broj pogodjenih do vrste: 1957
+Broj ukupno pogodjenih: 3214
+Time of execution: .74900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Pneumoniae/P1031/x20/5k
+  5268 sequences classified (63.09%)
+  3082 sequences unclassified (36.91%)
+Broj pogodjenih do vrste: 3279
+Broj ukupno pogodjenih: 5268
+Time of execution: .97100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Pneumoniae/P1031/x30/10k
+  4955 sequences classified (77.77%)
+  1416 sequences unclassified (22.23%)
+Broj pogodjenih do vrste: 3033
+Broj ukupno pogodjenih: 4955
+Time of execution: 1.05200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Pneumoniae/P1031/x30/5k
+  6638 sequences classified (81.20%)
+  1537 sequences unclassified (18.80%)
+Broj pogodjenih do vrste: 4122
+Broj ukupno pogodjenih: 6638
+Time of execution: 1.24000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Pneumoniae/70585/x20/10k
+  3470 sequences classified (77.47%)
+  1009 sequences unclassified (22.53%)
+Broj pogodjenih do vrste: 2193
+Broj ukupno pogodjenih: 3470
+Time of execution: .78100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Pneumoniae/70585/x20/5k
+  5404 sequences classified (62.71%)
+  3213 sequences unclassified (37.29%)
+Broj pogodjenih do vrste: 3415
+Broj ukupno pogodjenih: 5404
+Time of execution: 1.00400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Pneumoniae/70585/x30/10k
+  5032 sequences classified (77.30%)
+  1478 sequences unclassified (22.70%)
+Broj pogodjenih do vrste: 3197
+Broj ukupno pogodjenih: 5032
+Time of execution: .96200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Pneumoniae/70585/x30/5k
+  1182 sequences classified (62.15%)
+  720 sequences unclassified (37.85%)
+Broj pogodjenih do vrste: 750
+Broj ukupno pogodjenih: 1182
+Time of execution: .30500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Pyogenes/MGAS5005/x20/10k
+  2738 sequences classified (78.16%)
+  765 sequences unclassified (21.84%)
+Broj pogodjenih do vrste: 1860
+Broj ukupno pogodjenih: 2738
+Time of execution: .61300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Pyogenes/MGAS5005/x20/5k
+  4785 sequences classified (65.10%)
+  2565 sequences unclassified (34.90%)
+Broj pogodjenih do vrste: 3263
+Broj ukupno pogodjenih: 4785
+Time of execution: .85700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Pyogenes/MGAS5005/x30/10k
+  4141 sequences classified (76.90%)
+  1244 sequences unclassified (23.10%)
+Broj pogodjenih do vrste: 2848
+Broj ukupno pogodjenih: 4141
+Time of execution: .82200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Pyogenes/MGAS5005/x30/5k
+  3318 sequences classified (62.77%)
+  1968 sequences unclassified (37.23%)
+Broj pogodjenih do vrste: 2254
+Broj ukupno pogodjenih: 3318
+Time of execution: .67700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Pyogenes/M1GAS/x20/10k
+  2880 sequences classified (79.08%)
+  762 sequences unclassified (20.92%)
+Broj pogodjenih do vrste: 2030
+Broj ukupno pogodjenih: 2880
+Time of execution: .66800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Pyogenes/M1GAS/x20/5k
+  4741 sequences classified (63.60%)
+  2713 sequences unclassified (36.40%)
+Broj pogodjenih do vrste: 3298
+Broj ukupno pogodjenih: 4741
+Time of execution: .87000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Pyogenes/M1GAS/x30/10k
+  4332 sequences classified (76.82%)
+  1307 sequences unclassified (23.18%)
+Broj pogodjenih do vrste: 3015
+Broj ukupno pogodjenih: 4332
+Time of execution: .93600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/ReadSim/PacBio/Streptococcus/Pyogenes/M1GAS/x30/5k
+  7051 sequences classified (63.07%)
+  4129 sequences unclassified (36.93%)
+Broj pogodjenih do vrste: 4956
+Broj ukupno pogodjenih: 7051
+Time of execution: 1.26600000000000000000
+ 

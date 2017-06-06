@@ -1,0 +1,665 @@
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Enterococcus/Gallinarum/FDAARGOS163/x20/200
+  221139 sequences classified (59.24%)
+  152181 sequences unclassified (40.76%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 221139
+Time of execution: 2.48000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Enterococcus/Gallinarum/FDAARGOS163/x20/150
+  262019 sequences classified (52.64%)
+  235741 sequences unclassified (47.36%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 262019
+Time of execution: 3.12500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Enterococcus/Gallinarum/FDAARGOS163/x30/200
+  332332 sequences classified (59.35%)
+  227648 sequences unclassified (40.65%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 332332
+Time of execution: 4.16600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Enterococcus/Gallinarum/FDAARGOS163/x30/150
+  392300 sequences classified (52.54%)
+  354340 sequences unclassified (47.46%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 392300
+Time of execution: 4.62000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Enterococcus/Gallinarum/SKF1/x20/200
+  23593 sequences classified (7.30%)
+  299667 sequences unclassified (92.70%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 23593
+Time of execution: 3.94000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Enterococcus/Gallinarum/SKF1/x20/150
+  27177 sequences classified (6.31%)
+  403843 sequences unclassified (93.69%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 27177
+Time of execution: 3.26900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Enterococcus/Gallinarum/SKF1/x30/200
+  35620 sequences classified (7.35%)
+  449270 sequences unclassified (92.65%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 35620
+Time of execution: 4.87900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Enterococcus/Gallinarum/SKF1/x30/150
+  40972 sequences classified (6.34%)
+  605558 sequences unclassified (93.66%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 40972
+Time of execution: 4.93900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Enterococcus/Hirae/9790/x20/200
+  282565 sequences classified (99.93%)
+  195 sequences unclassified (0.07%)
+Broj pogodjenih do vrste: 273185
+Broj ukupno pogodjenih: 282565
+Time of execution: 1.59100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Enterococcus/Hirae/9790/x20/150
+  375205 sequences classified (99.52%)
+  1815 sequences unclassified (0.48%)
+Broj pogodjenih do vrste: 362764
+Broj ukupno pogodjenih: 375205
+Time of execution: 1.54800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Enterococcus/Hirae/9790/x30/200
+  423786 sequences classified (99.92%)
+  354 sequences unclassified (0.08%)
+Broj pogodjenih do vrste: 409748
+Broj ukupno pogodjenih: 423786
+Time of execution: 2.66400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Enterococcus/Hirae/9790/x30/150
+  562759 sequences classified (99.51%)
+  2771 sequences unclassified (0.49%)
+Broj pogodjenih do vrste: 544150
+Broj ukupno pogodjenih: 562759
+Time of execution: 2.79000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Enterococcus/Hirae/R17/x20/200
+  256358 sequences classified (88.82%)
+  32282 sequences unclassified (11.18%)
+Broj pogodjenih do vrste: 247717
+Broj ukupno pogodjenih: 256358
+Time of execution: 1.74400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Enterococcus/Hirae/R17/x20/150
+  333252 sequences classified (86.59%)
+  51608 sequences unclassified (13.41%)
+Broj pogodjenih do vrste: 322381
+Broj ukupno pogodjenih: 333252
+Time of execution: 2.08600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Enterococcus/Hirae/R17/x30/200
+  384389 sequences classified (88.78%)
+  48571 sequences unclassified (11.22%)
+Broj pogodjenih do vrste: 371733
+Broj ukupno pogodjenih: 384389
+Time of execution: 2.10400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Enterococcus/Hirae/R17/x30/150
+  499526 sequences classified (86.53%)
+  77764 sequences unclassified (13.47%)
+Broj pogodjenih do vrste: 483131
+Broj ukupno pogodjenih: 499526
+Time of execution: 2.96800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Parasuis/KL0318/x20/200
+  215756 sequences classified (94.60%)
+  12324 sequences unclassified (5.40%)
+Broj pogodjenih do vrste: 208302
+Broj ukupno pogodjenih: 215756
+Time of execution: 2.14700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Parasuis/KL0318/x20/150
+  281412 sequences classified (92.54%)
+  22688 sequences unclassified (7.46%)
+Broj pogodjenih do vrste: 271660
+Broj ukupno pogodjenih: 281412
+Time of execution: 1.86500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Parasuis/KL0318/x30/200
+  323715 sequences classified (94.62%)
+  18405 sequences unclassified (5.38%)
+Broj pogodjenih do vrste: 312470
+Broj ukupno pogodjenih: 323715
+Time of execution: 2.68800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Parasuis/KL0318/x30/150
+  422019 sequences classified (92.52%)
+  34131 sequences unclassified (7.48%)
+Broj pogodjenih do vrste: 407539
+Broj ukupno pogodjenih: 422019
+Time of execution: 2.77900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Parasuis/SH03/x20/200
+  218865 sequences classified (96.60%)
+  7715 sequences unclassified (3.40%)
+Broj pogodjenih do vrste: 210794
+Broj ukupno pogodjenih: 218865
+Time of execution: 2.13100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Parasuis/SH03/x20/150
+  285982 sequences classified (94.66%)
+  16138 sequences unclassified (5.34%)
+Broj pogodjenih do vrste: 275507
+Broj ukupno pogodjenih: 285982
+Time of execution: 1.76400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Parasuis/SH03/x30/200
+  328306 sequences classified (96.60%)
+  11564 sequences unclassified (3.40%)
+Broj pogodjenih do vrste: 316239
+Broj ukupno pogodjenih: 328306
+Time of execution: 2.49500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Parasuis/SH03/x30/150
+  428933 sequences classified (94.65%)
+  24247 sequences unclassified (5.35%)
+Broj pogodjenih do vrste: 413328
+Broj ukupno pogodjenih: 428933
+Time of execution: 2.82700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Parasuis/SC1401/x20/200
+  187573 sequences classified (82.36%)
+  40167 sequences unclassified (17.64%)
+Broj pogodjenih do vrste: 178676
+Broj ukupno pogodjenih: 187573
+Time of execution: 3.14800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Parasuis/SC1401/x20/150
+  237846 sequences classified (78.33%)
+  65814 sequences unclassified (21.67%)
+Broj pogodjenih do vrste: 226676
+Broj ukupno pogodjenih: 237846
+Time of execution: 2.57300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Parasuis/SC1401/x30/200
+  281595 sequences classified (82.43%)
+  60015 sequences unclassified (17.57%)
+Broj pogodjenih do vrste: 268401
+Broj ukupno pogodjenih: 281595
+Time of execution: 3.61700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Parasuis/SC1401/x30/150
+  356867 sequences classified (78.35%)
+  98623 sequences unclassified (21.65%)
+Broj pogodjenih do vrste: 340211
+Broj ukupno pogodjenih: 356867
+Time of execution: 3.32300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Ducrey/GHA9/x20/200
+  177009 sequences classified (99.70%)
+  531 sequences unclassified (0.30%)
+Broj pogodjenih do vrste: 167053
+Broj ukupno pogodjenih: 177009
+Time of execution: 4.51800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Ducrey/GHA9/x20/150
+  234972 sequences classified (99.26%)
+  1748 sequences unclassified (0.74%)
+Broj pogodjenih do vrste: 222122
+Broj ukupno pogodjenih: 234972
+Time of execution: 2.43000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Ducrey/GHA9/x30/200
+  265477 sequences classified (99.69%)
+  833 sequences unclassified (0.31%)
+Broj pogodjenih do vrste: 250774
+Broj ukupno pogodjenih: 265477
+Time of execution: 2.21800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Ducrey/GHA9/x30/150
+  352360 sequences classified (99.23%)
+  2720 sequences unclassified (0.77%)
+Broj pogodjenih do vrste: 332882
+Broj ukupno pogodjenih: 352360
+Time of execution: 2.85300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Ducrey/VAN5/x20/200
+  166559 sequences classified (99.89%)
+  181 sequences unclassified (0.11%)
+Broj pogodjenih do vrste: 162480
+Broj ukupno pogodjenih: 166559
+Time of execution: 1.15800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Ducrey/VAN5/x20/150
+  221327 sequences classified (99.55%)
+  993 sequences unclassified (0.45%)
+Broj pogodjenih do vrste: 215977
+Broj ukupno pogodjenih: 221327
+Time of execution: 1.59900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Ducrey/VAN5/x30/200
+  249850 sequences classified (99.90%)
+  260 sequences unclassified (0.10%)
+Broj pogodjenih do vrste: 243878
+Broj ukupno pogodjenih: 249850
+Time of execution: 1.93500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Ducrey/VAN5/x30/150
+  331924 sequences classified (99.53%)
+  1556 sequences unclassified (0.47%)
+Broj pogodjenih do vrste: 323917
+Broj ukupno pogodjenih: 331924
+Time of execution: 2.18600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Ducrey/VAN4/x20/200
+  167127 sequences classified (99.90%)
+  173 sequences unclassified (0.10%)
+Broj pogodjenih do vrste: 163121
+Broj ukupno pogodjenih: 167127
+Time of execution: 1.32000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Ducrey/VAN4/x20/150
+  222045 sequences classified (99.54%)
+  1015 sequences unclassified (0.46%)
+Broj pogodjenih do vrste: 216787
+Broj ukupno pogodjenih: 222045
+Time of execution: 1.72200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Ducrey/VAN4/x30/200
+  250715 sequences classified (99.91%)
+  235 sequences unclassified (0.09%)
+Broj pogodjenih do vrste: 244709
+Broj ukupno pogodjenih: 250715
+Time of execution: 1.94000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Ducrey/VAN4/x30/150
+  333106 sequences classified (99.56%)
+  1484 sequences unclassified (0.44%)
+Broj pogodjenih do vrste: 325009
+Broj ukupno pogodjenih: 333106
+Time of execution: 2.25100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Ducrey/GHA8/x20/200
+  176417 sequences classified (99.68%)
+  563 sequences unclassified (0.32%)
+Broj pogodjenih do vrste: 166506
+Broj ukupno pogodjenih: 176417
+Time of execution: 1.78200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Ducrey/GHA8/x20/150
+  234214 sequences classified (99.25%)
+  1766 sequences unclassified (0.75%)
+Broj pogodjenih do vrste: 221163
+Broj ukupno pogodjenih: 234214
+Time of execution: 1.89400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Ducrey/GHA8/x30/200
+  264591 sequences classified (99.67%)
+  879 sequences unclassified (0.33%)
+Broj pogodjenih do vrste: 249892
+Broj ukupno pogodjenih: 264591
+Time of execution: 2.26000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Ducrey/GHA8/x30/150
+  351192 sequences classified (99.22%)
+  2778 sequences unclassified (0.78%)
+Broj pogodjenih do vrste: 331901
+Broj ukupno pogodjenih: 351192
+Time of execution: 3.01300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Influenzae/Hi375/x20/200
+  181329 sequences classified (97.97%)
+  3751 sequences unclassified (2.03%)
+Broj pogodjenih do vrste: 174185
+Broj ukupno pogodjenih: 181329
+Time of execution: 5.56700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Influenzae/Hi375/x20/150
+  239575 sequences classified (97.08%)
+  7205 sequences unclassified (2.92%)
+Broj pogodjenih do vrste: 230053
+Broj ukupno pogodjenih: 239575
+Time of execution: 2.47800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Influenzae/Hi375/x30/200
+  272127 sequences classified (98.02%)
+  5493 sequences unclassified (1.98%)
+Broj pogodjenih do vrste: 261397
+Broj ukupno pogodjenih: 272127
+Time of execution: 2.75900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Influenzae/Hi375/x30/150
+  359478 sequences classified (97.11%)
+  10692 sequences unclassified (2.89%)
+Broj pogodjenih do vrste: 345197
+Broj ukupno pogodjenih: 359478
+Time of execution: 3.13900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Influenzae/723/x20/200
+  184409 sequences classified (97.69%)
+  4351 sequences unclassified (2.31%)
+Broj pogodjenih do vrste: 177117
+Broj ukupno pogodjenih: 184409
+Time of execution: 2.84500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Influenzae/723/x20/150
+  243263 sequences classified (96.66%)
+  8417 sequences unclassified (3.34%)
+Broj pogodjenih do vrste: 233599
+Broj ukupno pogodjenih: 243263
+Time of execution: 2.40700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Influenzae/723/x30/200
+  276526 sequences classified (97.66%)
+  6614 sequences unclassified (2.34%)
+Broj pogodjenih do vrste: 265552
+Broj ukupno pogodjenih: 276526
+Time of execution: 3.09100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Influenzae/723/x30/150
+  365123 sequences classified (96.72%)
+  12397 sequences unclassified (3.28%)
+Broj pogodjenih do vrste: 350374
+Broj ukupno pogodjenih: 365123
+Time of execution: 3.10900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Influenzae/477/x20/200
+  181003 sequences classified (98.04%)
+  3617 sequences unclassified (1.96%)
+Broj pogodjenih do vrste: 173482
+Broj ukupno pogodjenih: 181003
+Time of execution: 2.87600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Influenzae/477/x20/150
+  238305 sequences classified (96.81%)
+  7855 sequences unclassified (3.19%)
+Broj pogodjenih do vrste: 228457
+Broj ukupno pogodjenih: 238305
+Time of execution: 2.43800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Influenzae/477/x30/200
+  271358 sequences classified (97.99%)
+  5572 sequences unclassified (2.01%)
+Broj pogodjenih do vrste: 260323
+Broj ukupno pogodjenih: 271358
+Time of execution: 2.84600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Haemophilus/Influenzae/477/x30/150
+  357287 sequences classified (96.76%)
+  11953 sequences unclassified (3.24%)
+Broj pogodjenih do vrste: 342547
+Broj ukupno pogodjenih: 357287
+Time of execution: 3.15800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Salmonella/Enterica/RKS4594/x30/200
+  732766 sequences classified (99.93%)
+  494 sequences unclassified (0.07%)
+Broj pogodjenih do vrste: 611849
+Broj ukupno pogodjenih: 732766
+Time of execution: 36.83300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Salmonella/Enterica/RKS4594/x30/150
+  973450 sequences classified (99.57%)
+  4220 sequences unclassified (0.43%)
+Broj pogodjenih do vrste: 812457
+Broj ukupno pogodjenih: 973450
+Time of execution: 14.69900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Salmonella/Bongori/NCTC_1249/x30/200
+  668576 sequences classified (99.94%)
+  424 sequences unclassified (0.06%)
+Broj pogodjenih do vrste: 547501
+Broj ukupno pogodjenih: 668576
+Time of execution: 10.77200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Mutans/UA159/x20/200
+  203149 sequences classified (99.94%)
+  131 sequences unclassified (0.06%)
+Broj pogodjenih do vrste: 197195
+Broj ukupno pogodjenih: 203149
+Time of execution: 1.48000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Mutans/UA159/x20/150
+  269854 sequences classified (99.56%)
+  1186 sequences unclassified (0.44%)
+Broj pogodjenih do vrste: 262074
+Broj ukupno pogodjenih: 269854
+Time of execution: 1.17200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Mutans/UA159/x30/200
+  304707 sequences classified (99.93%)
+  213 sequences unclassified (0.07%)
+Broj pogodjenih do vrste: 295871
+Broj ukupno pogodjenih: 304707
+Time of execution: 1.04800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Mutans/UA159/x30/150
+  404807 sequences classified (99.57%)
+  1753 sequences unclassified (0.43%)
+Broj pogodjenih do vrste: 392990
+Broj ukupno pogodjenih: 404807
+Time of execution: 1.40700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Mutans/NN2025DNA/x20/200
+  201210 sequences classified (99.94%)
+  130 sequences unclassified (0.06%)
+Broj pogodjenih do vrste: 195518
+Broj ukupno pogodjenih: 201210
+Time of execution: .96700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Mutans/NN2025DNA/x20/150
+  267376 sequences classified (99.60%)
+  1084 sequences unclassified (0.40%)
+Broj pogodjenih do vrste: 259865
+Broj ukupno pogodjenih: 267376
+Time of execution: .96800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Mutans/NN2025DNA/x30/200
+  301806 sequences classified (99.93%)
+  204 sequences unclassified (0.07%)
+Broj pogodjenih do vrste: 293214
+Broj ukupno pogodjenih: 301806
+Time of execution: 1.03200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Mutans/NN2025DNA/x30/150
+  401079 sequences classified (99.60%)
+  1611 sequences unclassified (0.40%)
+Broj pogodjenih do vrste: 389741
+Broj ukupno pogodjenih: 401079
+Time of execution: 1.35300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Agalacticae/SA20-06/x20/200
+  181937 sequences classified (99.92%)
+  143 sequences unclassified (0.08%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 181937
+Time of execution: 1.44100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Agalacticae/SA20-06/x20/150
+  241829 sequences classified (99.61%)
+  951 sequences unclassified (0.39%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 241829
+Time of execution: 1.00200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Agalacticae/SA20-06/x30/200
+  272919 sequences classified (99.93%)
+  201 sequences unclassified (0.07%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 272919
+Time of execution: 1.01000000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Agalacticae/SA20-06/x30/150
+  362664 sequences classified (99.59%)
+  1506 sequences unclassified (0.41%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 362664
+Time of execution: 1.25900000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Agalacticae/NEM316/x20/200
+  220985 sequences classified (99.93%)
+  155 sequences unclassified (0.07%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 220985
+Time of execution: .92300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Agalacticae/NEM316/x20/150
+  293768 sequences classified (99.63%)
+  1092 sequences unclassified (0.37%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 293768
+Time of execution: 1.14600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Agalacticae/NEM316/x30/200
+  331499 sequences classified (99.94%)
+  211 sequences unclassified (0.06%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 331499
+Time of execution: 1.32800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Agalacticae/NEM316/x30/150
+  440541 sequences classified (99.60%)
+  1749 sequences unclassified (0.40%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 440541
+Time of execution: 1.59700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Agalacticae/GD201008-001/x20/200
+  206171 sequences classified (99.94%)
+  129 sequences unclassified (0.06%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 206171
+Time of execution: .80800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Agalacticae/GD201008-001/x20/150
+  273965 sequences classified (99.59%)
+  1115 sequences unclassified (0.41%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 273965
+Time of execution: .95200000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Agalacticae/GD201008-001/x30/200
+  309238 sequences classified (99.93%)
+  212 sequences unclassified (0.07%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 309238
+Time of execution: 1.03300000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Agalacticae/GD201008-001/x30/150
+  410975 sequences classified (99.60%)
+  1645 sequences unclassified (0.40%)
+Broj pogodjenih do vrste: 0
+Broj ukupno pogodjenih: 410975
+Time of execution: 1.72500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Pneumoniae/P1031/x20/200
+  211020 sequences classified (99.92%)
+  160 sequences unclassified (0.08%)
+Broj pogodjenih do vrste: 129666
+Broj ukupno pogodjenih: 211020
+Time of execution: 2.62600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Pneumoniae/P1031/x20/150
+  280329 sequences classified (99.56%)
+  1251 sequences unclassified (0.44%)
+Broj pogodjenih do vrste: 172620
+Broj ukupno pogodjenih: 280329
+Time of execution: 1.19800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Pneumoniae/P1031/x30/200
+  316554 sequences classified (99.93%)
+  216 sequences unclassified (0.07%)
+Broj pogodjenih do vrste: 194866
+Broj ukupno pogodjenih: 316554
+Time of execution: 1.27100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Pneumoniae/P1031/x30/150
+  420512 sequences classified (99.56%)
+  1858 sequences unclassified (0.44%)
+Broj pogodjenih do vrste: 258864
+Broj ukupno pogodjenih: 420512
+Time of execution: 1.67400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Pneumoniae/70585/x20/200
+  218342 sequences classified (99.95%)
+  118 sequences unclassified (0.05%)
+Broj pogodjenih do vrste: 138622
+Broj ukupno pogodjenih: 218342
+Time of execution: 1.33100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Pneumoniae/70585/x20/150
+  290013 sequences classified (99.57%)
+  1267 sequences unclassified (0.43%)
+Broj pogodjenih do vrste: 183967
+Broj ukupno pogodjenih: 290013
+Time of execution: 1.26100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Pneumoniae/70585/x30/200
+  327496 sequences classified (99.94%)
+  194 sequences unclassified (0.06%)
+Broj pogodjenih do vrste: 206919
+Broj ukupno pogodjenih: 327496
+Time of execution: 1.54500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Pneumoniae/70585/x30/150
+  435052 sequences classified (99.57%)
+  1868 sequences unclassified (0.43%)
+Broj pogodjenih do vrste: 275984
+Broj ukupno pogodjenih: 435052
+Time of execution: 1.81600000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Pyogenes/MGAS5005/x20/200
+  183679 sequences classified (99.91%)
+  161 sequences unclassified (0.09%)
+Broj pogodjenih do vrste: 125993
+Broj ukupno pogodjenih: 183679
+Time of execution: 3.65500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Pyogenes/MGAS5005/x20/150
+  243876 sequences classified (99.48%)
+  1264 sequences unclassified (0.52%)
+Broj pogodjenih do vrste: 167403
+Broj ukupno pogodjenih: 243876
+Time of execution: 1.31400000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Pyogenes/MGAS5005/x30/200
+  275531 sequences classified (99.92%)
+  229 sequences unclassified (0.08%)
+Broj pogodjenih do vrste: 188787
+Broj ukupno pogodjenih: 275531
+Time of execution: 1.74500000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Pyogenes/MGAS5005/x30/150
+  365879 sequences classified (99.50%)
+  1831 sequences unclassified (0.50%)
+Broj pogodjenih do vrste: 250751
+Broj ukupno pogodjenih: 365879
+Time of execution: 1.87800000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Pyogenes/M1GAS/x20/200
+  185061 sequences classified (99.90%)
+  179 sequences unclassified (0.10%)
+Broj pogodjenih do vrste: 128182
+Broj ukupno pogodjenih: 185061
+Time of execution: 1.10700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Pyogenes/M1GAS/x20/150
+  245827 sequences classified (99.53%)
+  1153 sequences unclassified (0.47%)
+Broj pogodjenih do vrste: 170834
+Broj ukupno pogodjenih: 245827
+Time of execution: 1.17100000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Pyogenes/M1GAS/x30/200
+  277631 sequences classified (99.92%)
+  229 sequences unclassified (0.08%)
+Broj pogodjenih do vrste: 192746
+Broj ukupno pogodjenih: 277631
+Time of execution: 1.60700000000000000000
+ 
+/home/mateo/Desktop/Projekt/Genomi/art/Illumina/Streptococcus/Pyogenes/M1GAS/x30/150
+  368736 sequences classified (99.53%)
+  1734 sequences unclassified (0.47%)
+Broj pogodjenih do vrste: 255853
+Broj ukupno pogodjenih: 368736
+Time of execution: 1.98800000000000000000
+ 
